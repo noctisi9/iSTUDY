@@ -1,35 +1,86 @@
-name: Build APK
+name: Build Android APK
 
 on:
   push:
-    branches: [ main ]
-  workflow_dispatch:
+    branches: [main]
+    tags: ['v*']
+  workflow_dispatch: {}
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Flutter
-        uses: subosito/flutter-action@v2
+      - uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.24.0'
-          channel: 'stable'
+          channel: stable
 
       - name: Scaffold Android platform files
+        run: flutter create --platforms=android --org com.noctis.itrade .
+
+      - name: Show generated manifest (debug aid)
+        run: cat android/app/src/main/AndroidManifest.xml
+
+      - name: Add INTERNET permission (required for the live Deriv feed)
         run: |
-          flutter create --platforms=android --project-name istudy --org com.istudy.app _scaffold
-          cp -r _scaffold/android .
-          rm -rf _scaffold
+          python3 - <<'PY'
+          import re
+          path = "android/app/src/main/AndroidManifest.xml"
+          with open(path) as f:
+              content = f.read()
+          if "android.permission.INTERNET" not in content:
+              content = re.sub(
+                  r"(<manifest[^>]*>)",
+                  r'\1\n    <uses-permission android:name="android.permission.INTERNET" />',
+                  content,
+                  count=1,
+              )
+          with open(path, "w") as f:
+              f.write(content)
+          assert "android.permission.INTERNET" in content, "Failed to inject INTERNET permission"
+          print("Manifest OK:")
+          print(content)
+          PY
+
+      - name: Set app label
+        run: |
+          python3 - <<'PY'
+          import re
+          path = "android/app/src/main/AndroidManifest.xml"
+          with open(path) as f:
+              content = f.read()
+          content = re.sub(r'android:label="[^"]*"', 'android:label="NOCTIS iTRADE"', content, count=1)
+          with open(path, "w") as f:
+              f.write(content)
+          PY
+
+      - name: Bump compileSdk/targetSdk (audioplayers_android requires 34+)
+        run: |
+          python3 - <<'PY'
+          import re, glob
+          candidates = glob.glob("android/app/build.gradle.kts") + glob.glob("android/app/build.gradle")
+          path = candidates[0]
+          with open(path) as f:
+              content = f.read()
+          content = content.replace("compileSdk = flutter.compileSdkVersion", "compileSdk = 36")
+          content = content.replace("compileSdkVersion flutter.compileSdkVersion", "compileSdkVersion 36")
+          content = content.replace("targetSdk = flutter.targetSdkVersion", "targetSdk = 36")
+          content = content.replace("targetSdkVersion flutter.targetSdkVersion", "targetSdkVersion 36")
+          with open(path, "w") as f:
+              f.write(content)
+          print(f"Patched {path}:")
+          print(content)
+          PY
+
+      - name: Flutter doctor
+        run: flutter doctor -v
 
       - name: Install dependencies
         run: flutter pub get
 
-      - name: Run analyzer (non-blocking)
-        run: flutter analyze || true
+      - name: Analyze (surfaces Dart errors clearly before the slow build step)
+        run: flutter analyze --no-fatal-infos --no-fatal-warnings
 
       - name: Build release APK
         run: flutter build apk --release
@@ -37,5 +88,11 @@ jobs:
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
-          name: istudy-release-apk
+          name: noctis-itrade-apk
           path: build/app/outputs/flutter-apk/app-release.apk
+
+      - name: Attach APK to GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: build/app/outputs/flutter-apk/app-release.apk
