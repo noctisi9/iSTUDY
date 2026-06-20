@@ -1,0 +1,3221 @@
+{
+  "p1": {
+    "animal-nutrition": {
+      "mcq": [
+        {
+          "q": "The stomach of a fowl in which ENZYMATIC (chemical) digestion takes place is the ...",
+          "opts": [
+            "Ventriculus (Gizzard)",
+            "Proventriculus",
+            "Crop",
+            "Cloaca"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Proventriculus"
+        },
+        {
+          "q": "In a digestibility trial, a cow excreted 35 kg of manure with a moisture content of 55%. The DRY MATERIAL content of the manure is ... kg.",
+          "opts": [
+            "19,25",
+            "15,75",
+            "16",
+            "5,75"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. 15,75"
+        },
+        {
+          "q": "The following is TRUE about digestion in the stomach of a pig: \\(i\\) Pancreatic juice neutralises acidic chyme \\(ii\\) Pepsin breaks down proteins into peptones \\(iii\\) Rennin converts soluble caseinogen into insoluble casein \\(iv\\) Inactive pepsinogen is changed into active pepsin",
+          "opts": [
+            "(i), (ii) and (iii)",
+            "(i), (iii) and (iv)",
+            "(i), (ii) and (iv)",
+            "(ii), (iii) and (iv)"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. (i), (ii) and (iv)"
+        },
+        {
+          "q": "Part ... of the villi transports digested fats and fat-soluble vitamins into the LYMPHATIC SYSTEM.",
+          "opts": [
+            "Blood capillary (X)",
+            "Lacteal (Y)",
+            "Epithelial cell (W)",
+            "Mucosa (Z)"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Lacteal (Y)"
+        },
+        {
+          "q": "The rumen micro-organism that digests CELLULOSE by secreting the enzyme cellulase is the ...",
+          "opts": [
+            "Amylolytic bacteria",
+            "Proteolytic bacteria",
+            "Cellulolytic bacteria",
+            "Protozoa"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Cellulolytic bacteria"
+        },
+        {
+          "q": "ratio and is best suited for ...",
+          "opts": [
+            "Wide; fattening and maintenance",
+            "Narrow; milk production and growth",
+            "Narrow; maintenance only",
+            "Wide; high production"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Narrow; milk production and growth"
+        },
+        {
+          "q": "The IDEAL temperature inside the rumen for optimal microbial activity is ...",
+          "opts": [
+            "32\u00b0C -- 34\u00b0C",
+            "39\u00b0C -- 40\u00b0C",
+            "25\u00b0C -- 28\u00b0C",
+            "42\u00b0C -- 45\u00b0C"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. 39\u00b0C -- 40\u00b0C"
+        },
+        {
+          "q": "An animal ingested 20 kg of hay with a moisture content of 60%. The DRY MATTER intake is ... kg.",
+          "opts": [
+            "12",
+            "8",
+            "16",
+            "4"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. 8"
+        },
+        {
+          "q": "Biological Value (BV) of an IDEAL protein is ...",
+          "opts": [
+            "75",
+            "85",
+            "100",
+            "60"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. 100"
+        },
+        {
+          "q": "The enzyme SALIVARY AMYLASE is secreted in the MOUTH of a pig. Its function is to change ...",
+          "opts": [
+            "Protein into peptones",
+            "Starch into maltose",
+            "Sucrose into glucose and fructose",
+            "Caseinogen into casein"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Starch into maltose"
+        },
+        {
+          "q": "The CARDIAC region of the non-ruminant stomach mainly functions to ...",
+          "opts": [
+            "Secrete HCl, renin and pepsin",
+            "Control exit of food into small intestine",
+            "Secrete mucus to protect stomach lining against HCl",
+            "Complete chemical digestion"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Secrete mucus to protect stomach lining against HCl"
+        },
+        {
+          "q": "Vitamin E deficiency in young animals causes ...",
+          "opts": [
+            "Night blindness",
+            "Rickets",
+            "Stiff lamb disease",
+            "Polyneuritis"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Stiff lamb disease"
+        },
+        {
+          "q": "Iodine deficiency in farm animals results in ...",
+          "opts": [
+            "Pica",
+            "Parakeratosis",
+            "Goitre",
+            "Swayback"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Goitre"
+        },
+        {
+          "q": "METABOLIC ENERGY (ME) is calculated by subtracting from Gross Energy all of the following EXCEPT ...",
+          "opts": [
+            "Energy lost in faeces",
+            "Energy lost in urine",
+            "Energy lost in gases",
+            "Energy used in physical activity"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Energy used in physical activity"
+        },
+        {
+          "q": "Urea is classified as a Non-Protein Nitrogen (NPN) source. The MAIN risk of feeding urea is that ...",
+          "opts": [
+            "It is more expensive than soya meal",
+            "Excess urea converts to ammonia, which is poisonous",
+            "It dissolves too slowly for rumen bacteria",
+            "It cannot be used by any farm animal"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Excess urea converts to ammonia, which is poisonous"
+        },
+        {
+          "q": "In ruminants, the breakdown of cellulose (fibre) is made possible mainly by ...",
+          "opts": [
+            "Pepsin secreted in the abomasum",
+            "Micro-organisms (bacteria and protozoa) in the rumen that secrete cellulase",
+            "Saliva alone",
+            "Bile from the liver"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Ruminants themselves cannot produce cellulase; symbiotic rumen micro-organisms break down cellulose into usable nutrients."
+        },
+        {
+          "q": "The end products of microbial fermentation of carbohydrates in the rumen are mainly ...",
+          "opts": [
+            "Glucose only",
+            "Volatile fatty acids (VFAs) such as acetic, propionic and butyric acid, plus methane and carbon dioxide gas",
+            "Pure water",
+            "Vitamin D"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. VFAs are absorbed through the rumen wall and used as the animal's main energy source."
+        },
+        {
+          "q": "Ruminant animals can utilise non-protein nitrogen sources such as UREA because ...",
+          "opts": [
+            "Urea is directly absorbed as protein",
+            "Rumen micro-organisms can convert urea (a nitrogen source) into microbial protein, which the animal later digests",
+            "Urea is toxic and never used",
+            "Non-ruminants also use urea the same way"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Microbes use urea-nitrogen to build their own protein, which is digested by the animal further down the alimentary canal."
+        },
+        {
+          "q": "Bloat in ruminants is a digestive disorder caused mainly by ...",
+          "opts": [
+            "Too little roughage in the diet",
+            "Excessive gas (from fermentation) trapped in the rumen, often due to feeding on lush legume pasture, which cannot be expelled by belching (eructation)",
+            "A deficiency of water",
+            "Excess salt intake"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Bloat is dangerous as the swollen rumen can press on the lungs/diaphragm, restricting breathing."
+        },
+        {
+          "q": "Acidosis in ruminants is commonly caused by ...",
+          "opts": [
+            "Too much roughage in the diet",
+            "A sudden, excessive intake of highly fermentable concentrates/grain, causing excess lactic acid production and a drop in rumen pH",
+            "Insufficient grain in the diet",
+            "A lack of micro-organisms"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Rapid fermentation of starch-rich feed produces excess lactic acid, lowering rumen pH and harming the animal."
+        },
+        {
+          "q": "The rumen, the largest compartment of a ruminant's stomach, primarily functions as a site of ...",
+          "opts": [
+            "Enzymatic (chemical) digestion only",
+            "Microbial fermentation and storage of feed",
+            "Absorption of water exclusively",
+            "Bile production"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. The rumen acts as a fermentation vat; true chemical (enzymatic) digestion occurs later, in the abomasum."
+        },
+        {
+          "q": "The reticulum functions mainly to ...",
+          "opts": [
+            "Produce enzymes",
+            "Trap foreign objects/heavy materials and aid in the formation of the cud for rumination",
+            "Absorb most nutrients",
+            "Store urine"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. The honeycomb-structured reticulum helps form the bolus (cud) that is regurgitated for further chewing."
+        },
+        {
+          "q": "The omasum functions mainly to ...",
+          "opts": [
+            "Produce hydrochloric acid",
+            "Absorb water and some nutrients from the digesta, and further grind feed between its many leaf-like folds",
+            "Store undigested roughage permanently",
+            "Secrete bile"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. The omasum's folded structure increases surface area for water absorption and mechanical breakdown."
+        },
+        {
+          "q": "The abomasum is referred to as the 'true stomach' of a ruminant because it ...",
+          "opts": [
+            "Has no digestive function",
+            "Is the only compartment where true enzymatic/chemical digestion occurs, similar to a monogastric stomach",
+            "Stores feed for the longest period",
+            "Produces no acid"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. The abomasum secretes HCl and digestive enzymes (e.g. pepsin, rennin), comparable to the single stomach of non-ruminants."
+        },
+        {
+          "q": "Rumination ('chewing the cud') refers to the process where ...",
+          "opts": [
+            "Feed passes straight through the gut without re-chewing",
+            "Partially digested feed (cud) is regurgitated from the rumen back to the mouth for further chewing, mixing with saliva, before being re-swallowed",
+            "Saliva is produced without feed intake",
+            "Microbes are destroyed"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Rumination increases the surface area of feed particles, improving microbial fermentation efficiency."
+        },
+        {
+          "q": "Which nutrient is the primary and most efficient source of ENERGY in livestock feed?",
+          "opts": [
+            "Protein",
+            "Carbohydrates",
+            "Vitamins",
+            "Water"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Carbohydrates (e.g. starches, sugars, fibre) are broken down to provide the bulk of an animal's energy requirements."
+        },
+        {
+          "q": "Protein in the diet is primarily required for ...",
+          "opts": [
+            "Providing energy only",
+            "Growth, tissue repair and the production of products such as milk, wool, eggs and muscle (meat)",
+            "Insulating the body",
+            "Lubricating joints"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Protein supplies amino acids essential for building and repairing body tissues and producing animal products."
+        },
+        {
+          "q": "Fats (lipids) in animal feed function mainly to ...",
+          "opts": [
+            "Provide the lowest energy density of all nutrients",
+            "Provide a concentrated source of energy (more than double that of carbohydrates per gram) and supply essential fatty acids",
+            "Build bone structure exclusively",
+            "Replace the need for water"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Fats yield roughly 2.25 times more energy per gram than carbohydrates or protein."
+        },
+        {
+          "q": "Calcium and phosphorus are minerals primarily required by livestock for ...",
+          "opts": [
+            "Energy production",
+            "Bone and teeth development, and (calcium) for milk production and blood clotting",
+            "Building muscle protein exclusively",
+            "Insulating against cold"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. These two minerals work together and must be supplied in the correct ratio for healthy bone development and lactation."
+        },
+        {
+          "q": "A deficiency of calcium in dairy cows around calving can lead to a condition known as ...",
+          "opts": [
+            "Bloat",
+            "Milk fever (hypocalcaemia)",
+            "Acidosis",
+            "Pink eye"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Milk fever results from a sudden drop in blood calcium as large amounts are diverted into colostrum/milk production at calving."
+        },
+        {
+          "q": "Vitamins are required by animals in ... amounts, but are essential for ...",
+          "opts": [
+            "Large; energy production primarily",
+            "Small; normal metabolic functions, growth and disease resistance",
+            "Large; building muscle mass primarily",
+            "No amount; they have no real function"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Although needed only in tiny quantities, vitamin deficiencies can cause serious metabolic and health problems."
+        },
+        {
+          "q": "Water is often considered the MOST essential nutrient because ...",
+          "opts": [
+            "Animals can survive longest without it compared to other nutrients",
+            "It is involved in nearly all body processes (digestion, temperature regulation, nutrient transport) and animals can survive only a short time without it",
+            "It provides energy directly",
+            "It is only needed by lactating animals"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. While animals can survive weeks without food, they can only survive days without water."
+        },
+        {
+          "q": "Roughage (e.g. hay, grass, silage) is characterised by ...",
+          "opts": [
+            "High energy density and low fibre content",
+            "High fibre (cellulose) content and relatively low energy density compared to concentrates",
+            "Zero nutritional value",
+            "Being suitable only for monogastric animals"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Roughage is bulky, high in fibre, and essential for maintaining healthy rumen function in ruminants."
+        },
+        {
+          "q": "Concentrates (e.g. maize, grain-based feeds) are characterised by ...",
+          "opts": [
+            "Low energy and high fibre",
+            "High energy and/or protein content and relatively low fibre content",
+            "Being unsuitable for any livestock",
+            "Providing only minerals"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Concentrates are energy- and/or protein-dense feeds used to supplement roughage, especially for high-producing animals."
+        },
+        {
+          "q": "A balanced ration is best described as a diet that ...",
+          "opts": [
+            "Contains only one type of nutrient in excess",
+            "Supplies all required nutrients (energy, protein, minerals, vitamins, water) in the correct proportions and amounts needed for an animal's specific requirements",
+            "Is the same for all classes of livestock regardless of age or production stage",
+            "Contains no roughage at all"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Balanced rations are formulated according to an animal's species, age, production stage (e.g. growth, lactation) and purpose."
+        },
+        {
+          "q": "Feed Conversion Ratio (FCR) is calculated as ...",
+          "opts": [
+            "Total weight gain \u00f7 total feed consumed",
+            "Total feed consumed (kg) \u00f7 total weight gain (kg)",
+            "Total feed cost \u00f7 number of animals",
+            "Total water consumed \u00f7 feed consumed"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. A LOWER FCR indicates more efficient feed conversion (less feed needed per kg of weight gain)."
+        }
+      ],
+      "practice": [
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "Differentiate between a RUMINANT and NON-RUMINANT based on structural differences in the stomach.",
+          "marks": 4,
+          "memo": "\u2022 Ruminant: has a complex stomach with FOUR compartments (Rumen, Reticulum, Omasum, Abomasum)\n\u2022 Non-ruminant: has a SIMPLE stomach with only ONE compartment"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "Explain TWO differences in the FEEDS utilised by ruminants and non-ruminants.",
+          "marks": 4,
+          "memo": "\u2022 Ruminants CAN feed on roughage because rumen micro-organisms digest cellulose; Non-ruminants CANNOT (no rumen/micro-organisms)\n\u2022 Ruminants CAN utilise urea (converted to microbial protein); Non-ruminants CANNOT --- excess urea converts to toxic ammonia"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "Name the THREE pairs of salivary glands in the mouth of a pig and state where each is situated.",
+          "marks": 6,
+          "memo": "\u2022 Parotid gland --- situated below/in front of the ear\n\u2022 Sublingual gland --- situated below the tongue\n\u2022 Submandibular (sub-maxillary) gland --- situated between the parotid and sublingual glands"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "State the function of each of the following stomach regions of a NON-RUMINANT: **(i)** Cardiac region",
+          "marks": 2,
+          "memo": "\u2022 Cardiac region: secretes mucus to protect the stomach lining against HCl\n\u2022 Fundic region: secretes hydrochloric acid (HCl), renin and pepsin\n\u2022 Pyloric region: controls the exit of food from the stomach into the small intestine"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "Name the ENZYME and state its FUNCTION for each of the following: **(i)** Mouth (salivary amylase)",
+          "marks": 2,
+          "memo": "\u2022 Mouth --- Salivary amylase: changes starch into maltose\n\u2022 Stomach --- Renin: changes caseinogen into casein\n\u2022 Stomach --- Pepsin: changes protein into peptones\n\u2022 Small intestine --- Sucrase: changes sucrose into glucose and fructose\n\u2022 Small intestine --- Lipase: changes lipids into fatty acids and glycerol"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "Distinguish between ACTIVE ABSORPTION and PASSIVE ABSORPTION. Give ONE example of each.",
+          "marks": 4,
+          "memo": "\u2022 Active absorption: requires ENERGY; moves nutrients from LOW to HIGH concentration (against gradient). Example: active transport of glucose\n\u2022 Passive absorption: does NOT require energy; moves nutrients from HIGH to LOW concentration (along gradient). Example: diffusion/osmosis"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "State the function of EACH of the following parts of the alimentary canal of a FOWL: **(i)** Beak",
+          "marks": 1,
+          "memo": "\u2022 Beak: collects/picks up food particles (ingestion)\n\u2022 Crop: moistens, soaks, softens and stores food\n\u2022 Proventriculus: secretes gastric juice (HCl, renin, pepsin) for chemical digestion\n\u2022 Gizzard (Ventriculus): grinds food using small stones (mechanical digestion)\n\u2022 Cloaca: expels both urine and faeces (excretion)"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "Describe the PATHWAY of food in the ruminant's stomach from oesophagus back to the mouth (regurgitation) -- name all processes involved.",
+          "marks": 4,
+          "memo": "\u2022 Food moves from oesophagus by PERISTALSIS into the rumen\n\u2022 Food REGURGITATES from the reticulo-rumen back to the mouth for re-chewing (rumination)\n\u2022 After re-chewing, food is swallowed again and moved by RETRO-PERISTALSIS into the omasum and abomasum"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "Name and explain the function of EACH of the four stomach compartments of a RUMINANT.",
+          "marks": 8,
+          "memo": "\u2022 Rumen: largest compartment; contains papillae and micro-organisms (bacteria/protozoa) for microbial digestion of cellulose; heat production\n\u2022 Reticulum: 'honeycomb'/hardware stomach; traps and stores foreign objects (e.g. nails, wire)\n\u2022 Omasum: 'leaf' stomach; many folds absorb water and grind/filter food particles\n\u2022 Abomasum: TRUE stomach/milk stomach; contains gastric glands, HCl, renin & pepsin --- site of chemical digestion"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "Name the THREE types of bacteria found in the rumen and state the function of EACH.",
+          "marks": 6,
+          "memo": "\u2022 Cellulolytic bacteria: digest cellulose using the enzyme cellulase; increase with high-fibre diets\n\u2022 Amylolytic bacteria: digest starch using the enzyme maltase; increase with high-starch diets\n\u2022 Proteolytic bacteria: digest protein; increase with high-protein diets"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "State FIVE requirements/ideal conditions for rumen micro-organisms to function optimally.",
+          "marks": 5,
+          "memo": "\u2022 Suitable pH (around 6,4)\n\u2022 Suitable temperature (39\u00b0C -- 40\u00b0C)\n\u2022 Sufficient nitrogen source (e.g. from urea)\n\u2022 Regular intake of feed\n\u2022 Oxygen-free (anaerobic) environment"
+        },
+        {
+          "subtopic": "Alimentary Canal",
+          "q": "State FOUR functions of rumen micro-organisms.",
+          "marks": 4,
+          "memo": "\u2022 Digest cellulose/roughage to form fatty acids, CO\u2082 and methane\n\u2022 Synthesise Vitamin B-complex and Vitamin K\n\u2022 Synthesise protein (microbial protein from urea/NPN)\n\u2022 Digest starch into maltose"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Name SIX essential nutrients that animals require in their diet.",
+          "marks": 6,
+          "memo": "\u2022 Water, Carbohydrates, Proteins, Lipids (Fats and Oils), Minerals, Vitamins"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Explain why an animal drinks MORE water and eats LESS on a HOT day.",
+          "marks": 2,
+          "memo": "\u2022 More water helps the animal COOL DOWN through evaporation/sweating; less feed reduces internal heat production from digestion"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Name the BUILDING BLOCK of each of the following nutrients: (i) Carbohydrates (ii) Protein (iii) Fats and Oils.",
+          "marks": 3,
+          "memo": "\u2022 Carbohydrates: Glucose (simple sugars)\n\u2022 Protein: Amino acids\n\u2022 Fats and Oils: Fatty acids and glycerol"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Give the DEFICIENCY DISEASE for each of the following vitamins: (i) Vitamin A (ii) Vitamin D (iii) Vitamin E (iv) Vitamin K (v) Vitamin B1 (vi) Vitamin B2 (vii) Vitamin B12.",
+          "marks": 7,
+          "memo": "\u2022 Vitamin A: Night blindness / Keratomalacia\n\u2022 Vitamin D: Rickets / Osteomalacia\n\u2022 Vitamin E: Stiff lamb disease (white muscle disease)\n\u2022 Vitamin K: Poor blood clotting\n\u2022 Vitamin B1: Polyneuritis\n\u2022 Vitamin B2: Curled-toe paralysis\n\u2022 Vitamin B12: Wasting disease / poor hatchability in poultry"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Give the DEFICIENCY CONDITION for each of the following minerals: (i) Calcium/Phosphorus (ii) Sodium (iii) Iodine (iv) Iron (v) Zinc (vi) Copper (vii) Cobalt.",
+          "marks": 7,
+          "memo": "\u2022 Calcium/Phosphorus: Rickets and Osteomalacia\n\u2022 Sodium: Pica (animal eats non-feed objects)\n\u2022 Iodine: Goitre (enlarged thyroid gland)\n\u2022 Iron: Anaemia\n\u2022 Zinc: Parakeratosis (rough skin in pigs)\n\u2022 Copper: Swayback / hairlessness (keratinization)\n\u2022 Cobalt: Wasting disease"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Define DIGESTIBILITY and DIGESTIBILITY COEFFICIENT.",
+          "marks": 4,
+          "memo": "\u2022 Digestibility: the proportion of feed that is NOT excreted in the faeces but absorbed/retained by the body\n\u2022 Digestibility Coefficient: the proportion of a nutrient consumed and absorbed, expressed as a PERCENTAGE"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Interpret the following digestibility coefficient results: (i) above 70% (ii) 60--70% (iii) 40--59% (iv) less than 40%.",
+          "marks": 4,
+          "memo": "\u2022 Above 70%: very high/good digestibility\n\u2022 60--70%: high/moderate digestibility\n\u2022 40--59%: low digestibility\n\u2022 Less than 40%: very low digestibility"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Define BIOLOGICAL VALUE (BV) of protein. Name THREE factors that determine it.",
+          "marks": 4,
+          "memo": "\u2022 BV: an index used to measure the QUALITY of protein in a feed\n\u2022 Determined by: amino acid composition / ratio of amino acids / amount of nitrogen retained by the body (any 3)"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Distinguish between ESSENTIAL and NON-ESSENTIAL amino acids.",
+          "marks": 4,
+          "memo": "\u2022 Essential amino acid: CANNOT be synthesised by the animal's body --- must be supplied through feed\n\u2022 Non-essential amino acid: CAN be synthesised by the animal's own body"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Define EACH of the following energy values: (i) Gross Energy (ii) Digestible Energy (iii) Metabolic Energy (iv) Net Energy.",
+          "marks": 8,
+          "memo": "\u2022 Gross Energy (GE): total potential energy of feed; energy released when feed is completely combusted\n\u2022 Digestible Energy (DE): GE minus energy lost in faeces (manure)\n\u2022 Metabolic Energy (ME): GE minus energy lost in faeces, urine and gases (CH\u2084, CO\u2082)\n\u2022 Net Energy (NE): GE minus energy lost in faeces, urine, gases AND body heat"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "Define NUTRITIVE RATIO. Distinguish between a NARROW and WIDE nutritive ratio, including uses of each.",
+          "marks": 6,
+          "memo": "\u2022 Nutritive Ratio: a measure of the PROTEIN content of a feed (ratio of digestible energy-yielding nutrients to digestible protein)\n\u2022 NARROW (below 1:6): HIGH protein --- used for PRODUCTION (growth, milk, reproduction)\n\u2022 WIDE (above 1:6): LOW protein --- used for FATTENING and MAINTENANCE"
+        },
+        {
+          "subtopic": "Nutrients & Feed Quality",
+          "q": "List FOUR differences between roughage and concentrate (% TDN, % crude fibre, cost, bulkiness).",
+          "marks": 4,
+          "memo": "\u2022 % TDN: Roughage = LOW; Concentrate = HIGH\n\u2022 % Crude fibre: Roughage = HIGH; Concentrate = LOW\n\u2022 Cost: Roughage = CHEAP; Concentrate = EXPENSIVE\n\u2022 Bulkiness: Roughage = BULKY; Concentrate = LESS BULKY"
+        },
+        {
+          "subtopic": "Feeds & Supplements",
+          "q": "An animal ingested 30 kg of grass with a moisture content of 60%. 10 kg of feed was excreted in the faeces with a moisture content of 75%. Calculate the DIGESTIBILITY COEFFICIENT. Show ALL working.",
+          "marks": 5,
+          "memo": "\u2022 Moisture intake = 60/100 \u00d7 30 kg = 18 kg \u2192 Dry matter intake = 30 \u2212 18 = 12 kg\n\u2022 Moisture excreted = 75/100 \u00d7 10 kg = 7,5 kg \u2192 Dry matter excreted = 10 \u2212 7,5 = 2,5 kg\n\u2022 DC% = (DM intake \u2212 DM excreted)/DM intake \u00d7 100 = (12 \u2212 2,5)/12 \u00d7 100 = 79,17%\n\u2022 Interpretation: Above 70% = very high digestibility"
+        },
+        {
+          "subtopic": "Feeds & Supplements",
+          "q": "Using the PEARSON SQUARE METHOD, balance a ration of maize (8% DP) and soya bean meal (44% DP) to meet a requirement of 18% DP. Then calculate the PERCENTAGE of each ingredient in the mixture.",
+          "marks": 5,
+          "memo": "\u2022 Maize parts = 44 \u2212 18 = 26 parts; Soya parts = 18 \u2212 8 = 10 parts; Total = 36 parts\n\u2022 % Maize = 26/36 \u00d7 100 = 72,2% \u24601.5\n\u2022 % Soya meal = 10/36 \u00d7 100 = 27,8% \u24601.5"
+        },
+        {
+          "subtopic": "Feeds & Supplements",
+          "q": "A feed has 80% TDN and 20% DP. Calculate the NUTRITIVE RATIO and state whether it is NARROW or WIDE.",
+          "marks": 3,
+          "memo": "\u2022 NR = 1 : (TDN \u2212 DP)/DP = 1 : (80 \u2212 20)/20 = 1 : 60/20 = 1 : 3\n\u2022 1:3 is a NARROW nutritive ratio (below 1:6)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name and briefly describe FOUR types of growth stimulants used in animal production.",
+          "marks": 8,
+          "memo": "\u2022 Tranquiliser/Sedative: keeps animals calm so they eat more feed and gain weight faster\n\u2022 Antibiotics: prevent disease which could otherwise reduce growth rate\n\u2022 Thyroid regulator: stimulates the animal's metabolism and growth rate\n\u2022 Hormones: growth hormone pellets implanted under the skin to stimulate growth"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Define a FODDER FLOW PROGRAMME and name FOUR factors to consider when planning one.",
+          "marks": 6,
+          "memo": "\u2022 Fodder flow programme: a strategic plan to ensure SUFFICIENT feed is available for animals throughout the year\n\u2022 Factors: number of animals / type of animal / seasonal feed availability / cost of feed (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Rumen digestion",
+          "q": "Describe how micro-organisms in the rumen enable a ruminant to digest cellulose (fibre) that monogastric animals cannot digest.",
+          "marks": 4,
+          "memo": "\u2022 Rumen micro-organisms (bacteria and protozoa) produce the enzyme cellulase \u2713\n\u2022 Cellulase breaks down cellulose into simpler carbohydrates \u2713\n\u2022 These are further fermented into volatile fatty acids (VFAs) \u2713\n\u2022 VFAs are absorbed through the rumen wall and used by the animal as an energy source \u2713"
+        },
+        {
+          "subtopic": "Digestive disorders",
+          "q": "Explain the cause of bloat in cattle and describe ONE way a farmer can prevent it.",
+          "marks": 4,
+          "memo": "\u2022 Cause: rapid fermentation of lush, leguminous pasture produces excessive gas that becomes trapped in the rumen (often as a stable foam) and cannot be belched out \u2713\u2713\n\u2022 Prevention: avoid allowing animals to graze excessively on wet, lush legume pasture; introduce legumes gradually; provide roughage/hay before grazing; use anti-bloat treatments/drenches \u2713\u2713 (any valid prevention method)"
+        },
+        {
+          "subtopic": "Digestive disorders",
+          "q": "Explain why a sudden change from a roughage-based diet to a high-concentrate (grain) diet can cause acidosis in cattle.",
+          "marks": 4,
+          "memo": "\u2022 Rumen micro-organisms ferment the readily available starch in grain very rapidly \u2713\n\u2022 This produces excess lactic acid \u2713\n\u2022 Rumen pH drops sharply (becomes too acidic) \u2713\n\u2022 This harms/kills the normal rumen micro-organism population and damages the rumen wall, making the animal ill \u2713"
+        },
+        {
+          "subtopic": "Stomach compartments",
+          "q": "Name the FOUR compartments of a ruminant's stomach, in the order that feed passes through them, and state ONE function of each.",
+          "marks": 8,
+          "memo": "\u2022 Rumen \u2014 fermentation/storage of feed by micro-organisms \u2713\u2713\n\u2022 Reticulum \u2014 traps foreign objects, aids cud formation \u2713\u2713\n\u2022 Omasum \u2014 absorbs water, further grinds feed \u2713\u2713\n\u2022 Abomasum \u2014 true enzymatic digestion (HCl, pepsin) \u2713\u2713"
+        },
+        {
+          "subtopic": "Nutrient functions",
+          "q": "Tabulate FOUR nutrient classes required in animal nutrition and state ONE function of each.",
+          "marks": 4,
+          "memo": "\u2022 Carbohydrates \u2014 main source of energy \u2713\n\u2022 Protein \u2014 growth, tissue repair, production of milk/meat/wool \u2713\n\u2022 Fats \u2014 concentrated energy source, supplies essential fatty acids \u2713\n\u2022 Minerals (e.g. Ca, P) \u2014 bone/teeth development \u2713 (any 4, vitamins/water also accepted)"
+        },
+        {
+          "subtopic": "Feed conversion ratio",
+          "q": "A pig consumed 240 kg of feed over a period during which it gained 60 kg in body weight. Calculate the pig's Feed Conversion Ratio (FCR) and explain what this value indicates about the pig's feed efficiency.",
+          "marks": 4,
+          "memo": "\u2022 FCR = Feed consumed \u00f7 Weight gain = 240 kg \u00f7 60 kg = 4 \u2713\u2713\n\u2022 This means 4 kg of feed was required to produce 1 kg of weight gain \u2713\n\u2022 A lower FCR would indicate more efficient (better) feed conversion; this value should be compared to breed/industry standards to assess efficiency \u2713"
+        },
+        {
+          "subtopic": "Deficiency diseases",
+          "q": "Explain the cause of milk fever in dairy cows and describe how it can be prevented/treated.",
+          "marks": 4,
+          "memo": "\u2022 Cause: a sudden drop in blood calcium levels around calving, as large amounts of calcium are diverted to colostrum/milk production faster than it can be mobilised from the bones/absorbed from the diet \u2713\u2713\n\u2022 Prevention/treatment: feed a calcium-balanced (often a low-calcium, high-phosphorus 'pre-calving') ration before calving to stimulate calcium mobilisation mechanisms; administer a calcium injection/infusion if symptoms appear \u2713\u2713"
+        },
+        {
+          "subtopic": "Roughage vs concentrates",
+          "q": "Distinguish between roughage and concentrates as types of livestock feed, giving an example of each.",
+          "marks": 4,
+          "memo": "\u2022 Roughage: high fibre, bulky, lower energy density, e.g. hay/grass/silage \u2713\u2713\n\u2022 Concentrates: low fibre, high energy and/or protein density, e.g. maize/grain/oilcake meal \u2713\u2713"
+        }
+      ]
+    },
+    "animal-production": {
+      "mcq": [
+        {
+          "q": "An INTENSIVE production system is best characterised by ...",
+          "opts": [
+            "Low capital, large land, animals grazing naturally",
+            "High capital, small land, controlled environment for maximum output",
+            "Low output, no technology, subsistence goal",
+            "Animals kept in veld on natural pasture only"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. High capital, small land, controlled environment for maximum output"
+        },
+        {
+          "q": "The picture below shows a layer housing system. This system is called a ...",
+          "opts": [
+            "Feedlot",
+            "Battery cage system",
+            "Deep litter system",
+            "Free range system"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Battery cage system"
+        },
+        {
+          "q": "spreads RAPIDLY through an area is a/an ...",
+          "opts": [
+            "Pandemic",
+            "Endemic",
+            "Epidemic",
+            "Zoonotic disease"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Epidemic"
+        },
+        {
+          "q": "Animal housing should be oriented so that the LONG SIDE of the building faces EAST. The reason for this is to ensure ...",
+          "opts": [
+            "Maximum ventilation throughout the day",
+            "The building is warm in winter and cool in summer",
+            "Rainwater runs off easily",
+            "Animals face the sun during feeding"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. The building is warm in winter and cool in summer"
+        },
+        {
+          "q": "The BALANCE POINT in the flight zone of an animal is the point that ... crossed",
+          "opts": [
+            "The animal will kick if approached from behind",
+            "Is beyond the flight zone where handler is safe",
+            "At the shoulder that controls forward or backward movement when",
+            "Is the centre of the blind spot"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. At the shoulder that controls forward or backward movement when"
+        },
+        {
+          "q": "Which of the following is an ABNORMAL behaviour shown by pigs under stress?",
+          "opts": [
+            "Herd instinct",
+            "Rooting",
+            "Tail biting and ear biting",
+            "Grazing"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Tail biting and ear biting"
+        },
+        {
+          "q": "record motion (oestrus detection) is a ...",
+          "opts": [
+            "Chin-ball marker",
+            "Heat detector/Kamaar",
+            "Pedometer",
+            "Chalking method"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Pedometer"
+        },
+        {
+          "q": "Animal housing and shelter plays a vital role in protecting animals against which CORRECT combination?",
+          "opts": [
+            "Extreme heat, severe cold and wetting by rain",
+            "Extreme heat, proper breeding and wetting by rain",
+            "Severe cold, proper breeding only",
+            "All four: heat, cold, breeding and rain"
+          ],
+          "ans": 0,
+          "exp": "Correct answer: A. Extreme heat, severe cold and wetting by rain"
+        },
+        {
+          "q": "The CRUSH is a piece of equipment used in animal handling. Its PRIMARY purpose is to ... pregnancy testing",
+          "opts": [
+            "Transport animals safely between farms",
+            "Restrain large animals for medical treatment, dehorning, or",
+            "Weigh animals accurately on a scale",
+            "Provide shelter from extreme weather"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Restrain large animals for medical treatment, dehorning, or"
+        },
+        {
+          "q": "Which of the following loading RAMP requirements is INCORRECT?",
+          "opts": [
+            "The ramp should not be too steep",
+            "The ramp should have non-slip grooves",
+            "The ramp should be very narrow to prevent animals from turning",
+            "The ramp should be adjustable to different vehicle heights"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. The ramp should be very narrow to prevent animals from turning"
+        },
+        {
+          "q": "The sequential stages in the development of the LIVER FLUKE parasite are ...",
+          "opts": [
+            "Egg \u2192 Cercaria \u2192 Miracidium \u2192 Adult fluke",
+            "Miracidium \u2192 Egg \u2192 Cercaria \u2192 Adult fluke",
+            "Egg \u2192 Miracidium \u2192 Cercaria \u2192 Adult fluke",
+            "Cercaria \u2192 Miracidium \u2192 Egg \u2192 Adult fluke"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Egg \u2192 Miracidium \u2192 Cercaria \u2192 Adult fluke"
+        },
+        {
+          "q": "Mastitis is the inflammation of the ... that occurs in ...",
+          "opts": [
+            "Uterus; post-partum cows",
+            "Udder; dairy cattle",
+            "Skin; sheep infested by mange mites",
+            "Intestine; animals with tapeworm"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Udder; dairy cattle"
+        },
+        {
+          "q": "The BLUE TICK is a one-host tick. The disease it causes in cattle is ...",
+          "opts": [
+            "Heartwater and Congo fever",
+            "Red-water (Babesiosis) and Gall-sickness (Anaplasmosis)",
+            "Mange and Scab",
+            "Foot and Mouth Disease"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Red-water (Babesiosis) and Gall-sickness (Anaplasmosis)"
+        },
+        {
+          "q": "is classified as a ...",
+          "opts": [
+            "Notifiable disease",
+            "Contagious disease",
+            "Zoonotic disease",
+            "Systemic disease"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Zoonotic disease"
+        },
+        {
+          "q": "UREA POISONING in farm animals is caused by ...",
+          "opts": [
+            "Animals eating grass treated with herbicide",
+            "Animals ingesting toxic plants such as thorn apple",
+            "Excess urea intake that converts to ammonia, poisoning the animal",
+            "Maize stored in wet conditions developing aflatoxin mould"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Excess urea intake that converts to ammonia, poisoning the animal"
+        },
+        {
+          "q": "The TREATMENT for urea poisoning in farm animals is to administer ...",
+          "opts": [
+            "Activated charcoal",
+            "Vinegar",
+            "Antibiotics intramuscularly",
+            "Electrolyte solution"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Vinegar"
+        },
+        {
+          "q": "The microscopic external parasite with FOUR pairs of legs and a sucking mouth that causes MANGE and SCAB in farm animals is a ...",
+          "opts": [
+            "Tick",
+            "Flea",
+            "Mite",
+            "Biting louse"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Mite"
+        },
+        {
+          "q": "Ear tagging is a method of animal identification used mainly to ...",
+          "opts": [
+            "Treat disease",
+            "Allow individual animals to be identified for record-keeping (e.g. breeding, health, production records)",
+            "Provide nutrients",
+            "Prevent bloat"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Permanent identification is essential for accurate farm records and traceability."
+        },
+        {
+          "q": "Branding (hot iron or freeze branding) as a method of identification has the disadvantage of ...",
+          "opts": [
+            "Being completely painless and risk-free",
+            "Causing stress/pain to the animal and potentially damaging the hide/skin value",
+            "Being illegal in all countries",
+            "Being unreadable from a distance"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. While branding provides a permanent, easily visible mark, it causes some pain and can devalue hides."
+        },
+        {
+          "q": "A tattoo, as a method of livestock identification, is typically applied to the ...",
+          "opts": [
+            "Tail only",
+            "Inner ear or lip, providing a permanent mark",
+            "Hooves",
+            "Horns only"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Tattoos are long-lasting and relatively low-cost but can be difficult to read from a distance."
+        },
+        {
+          "q": "Microchipping as an identification method has the main advantage of ...",
+          "opts": [
+            "Being visible to the naked eye from far away",
+            "Providing a permanent, tamper-proof electronic identification that can be scanned for instant, accurate record retrieval",
+            "Being the cheapest identification method available",
+            "Requiring no special equipment to read"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Microchips are read using a scanner, offering high accuracy and reducing the risk of identification fraud/loss."
+        },
+        {
+          "q": "Accurate farm records (e.g. production, health, breeding records) are important mainly because they ...",
+          "opts": [
+            "Have no effect on farm management decisions",
+            "Help the farmer make informed management and breeding decisions, monitor productivity, and identify problems early",
+            "Are only required for legal/tax purposes",
+            "Replace the need for animal identification"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Good records allow farmers to track performance, plan breeding programmes and detect health/production issues promptly."
+        },
+        {
+          "q": "Vaccination works by ...",
+          "opts": [
+            "Directly killing the disease-causing pathogen in an infected animal",
+            "Stimulating an animal's immune system to produce antibodies, providing future protection/immunity against a specific disease",
+            "Replacing the need for good nutrition",
+            "Curing all existing infections instantly"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Vaccines expose the immune system to a weakened/inactive form of a pathogen (or its antigens), training it to respond quickly to future exposure."
+        },
+        {
+          "q": "Quarantine of newly purchased animals is an important biosecurity measure because it ...",
+          "opts": [
+            "Increases the spread of disease to the rest of the herd",
+            "Allows new animals to be observed and isolated for a period to ensure they are not carrying a disease before introducing them to the main herd",
+            "Is required only for export animals",
+            "Has no effect on disease control"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Quarantine periods help prevent the introduction of new diseases into an established, healthy herd/flock."
+        },
+        {
+          "q": "Dipping or spraying cattle with an acaricide is mainly done to control ...",
+          "opts": [
+            "Internal parasites such as roundworms",
+            "External parasites such as ticks, which can transmit diseases like redwater and heartwater",
+            "Bacterial infections directly",
+            "Nutrient deficiencies"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Ticks are vectors for several serious livestock diseases, making tick control a key part of herd health management."
+        },
+        {
+          "q": "Deworming (drenching) of livestock is done to control ...",
+          "opts": [
+            "External parasites like ticks",
+            "Internal parasites such as roundworms and tapeworms, which compete for nutrients and damage internal organs",
+            "Viral diseases directly",
+            "Mineral deficiencies"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Regular deworming programmes reduce the negative impact of internal parasites on growth and production."
+        },
+        {
+          "q": "Castration of male livestock not intended for breeding is commonly performed in order to ...",
+          "opts": [
+            "Increase aggressive/sexual behaviour",
+            "Reduce aggressive behaviour, improve meat quality/tenderness, and prevent unwanted breeding",
+            "Increase testosterone production",
+            "Improve fertility"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Castrated males (e.g. steers, wethers) are typically calmer and easier to manage, and their meat is often considered higher quality."
+        },
+        {
+          "q": "Dehorning of cattle is commonly practised mainly to ...",
+          "opts": [
+            "Increase the animal's ability to defend itself",
+            "Reduce the risk of injury to other animals and handlers, and reduce space needed in feedlots/transport",
+            "Increase milk production directly",
+            "Improve digestion"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Hornless (polled) or dehorned cattle are generally safer to handle and house together."
+        },
+        {
+          "q": "Biosecurity on a farm refers to ...",
+          "opts": [
+            "Increasing stocking density",
+            "A set of management practices designed to prevent the introduction and spread of disease-causing organisms onto and within a farm",
+            "A type of vaccination only",
+            "Marketing strategy"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Biosecurity includes measures such as quarantine, controlled farm access, hygiene protocols and pest control."
+        },
+        {
+          "q": "Foot-and-mouth disease (FMD) is a highly contagious ... disease affecting cloven-hoofed animals (e.g. cattle, sheep, pigs).",
+          "opts": [
+            "Bacterial",
+            "Viral",
+            "Fungal",
+            "Parasitic"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. FMD is caused by a virus and can spread rapidly, having serious trade and economic implications, requiring strict control measures."
+        },
+        {
+          "q": "An extensive livestock production system is characterised by ...",
+          "opts": [
+            "High stocking density, animals confined indoors, and high input costs",
+            "Low stocking density, animals grazing over large areas of natural/cultivated pasture, with relatively low input costs",
+            "No grazing at all",
+            "Animals being entirely hand-fed indoors"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Extensive systems rely largely on natural resources (veld/pasture) rather than purchased feed."
+        },
+        {
+          "q": "An intensive livestock production system is characterised by ...",
+          "opts": [
+            "Low stocking density and minimal management",
+            "High stocking density, animals often confined (e.g. feedlots, battery cages), high input costs but also typically higher output/productivity per animal",
+            "No supplementary feeding",
+            "Reliance entirely on natural veld"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Intensive systems maximise production through controlled environments, formulated feed and close management, at higher cost."
+        },
+        {
+          "q": "A feedlot system for finishing cattle is an example of ... production.",
+          "opts": [
+            "Extensive",
+            "Intensive",
+            "Subsistence only",
+            "Organic only"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Feedlots confine cattle at high density and feed concentrated rations to maximise weight gain quickly before slaughter."
+        },
+        {
+          "q": "The 'Five Freedoms' of animal welfare include freedom from hunger and thirst, freedom from discomfort, freedom from pain/injury/disease, freedom to express normal behaviour, and ...",
+          "opts": [
+            "Freedom to breed without restriction",
+            "Freedom from fear and distress",
+            "Freedom to roam unrestricted at all times",
+            "Freedom from vaccination"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. These five freedoms form an internationally recognised framework for assessing and ensuring animal welfare."
+        },
+        {
+          "q": "Stocking rate refers to ...",
+          "opts": [
+            "The price received per animal sold",
+            "The number of animals kept per unit area of land (e.g. per hectare)",
+            "The total feed cost per year",
+            "The breed of animal used"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Correct stocking rate is essential to prevent overgrazing while making efficient use of available grazing land."
+        },
+        {
+          "q": "Overstocking (exceeding the correct carrying capacity of land) commonly leads to ...",
+          "opts": [
+            "Improved pasture quality over time",
+            "Overgrazing, soil erosion, and declining pasture/veld condition and animal productivity",
+            "Increased veld growth",
+            "No negative effects"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Overstocking degrades the grazing resource, ultimately reducing the land's long-term productive capacity."
+        },
+        {
+          "q": "Rotational grazing is a management practice where ...",
+          "opts": [
+            "Animals graze the same camp continuously without rest",
+            "Livestock are systematically moved between different camps/paddocks, allowing grazed areas time to rest and recover",
+            "Animals are never moved",
+            "Only one camp is ever used"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Rotational grazing helps maintain pasture quality and prevents overgrazing of any single area."
+        }
+      ],
+      "practice": [
+        {
+          "subtopic": "Production Systems",
+          "q": "Distinguish between INTENSIVE and EXTENSIVE production systems using the following aspects: goal, capital investment, area of land, feeding and environmental effects.",
+          "marks": 10,
+          "memo": "\u2022 Goal: making profit\n\u2022 Capital investment: HIGH\n\u2022 Area of land: occupies a SMALL area\n\u2022 Feeding: animals fed specially formulated feeds in feedlots/units\n\u2022 Environmental effects: MORE environmental impact  *EXTENSIVE:*\n\u2022 Goal: minimising risk\n\u2022 Capital investment: LOW\n\u2022 Area of land: occupies a LARGE area\n\u2022 Feeding: animals graze on natural pasture in the veld\n\u2022 Environmental effects: LESS environmental impact"
+        },
+        {
+          "subtopic": "Production Systems",
+          "q": "Explain THREE factors that must be controlled under an INTENSIVE production system.",
+          "marks": 6,
+          "memo": "\u2022 Feeding: farmer must produce/buy feed suitable for growth and production\n\u2022 Environment: shelter must be provided with controlled heating, cooling and ventilation\n\u2022 Breeding: farmer selects animals with desired characteristics (high quality products, disease resistance)"
+        },
+        {
+          "subtopic": "Production Systems",
+          "q": "Distinguish between SUBSISTENCE and COMMERCIAL farming systems with regard to goal, technology use and scale.",
+          "marks": 6,
+          "memo": "\u2022 Subsistence: farmer grows crops/keeps livestock mainly to feed the FAMILY; rural, small plots, less technology\n\u2022 Commercial: farmer produces to SELL for PROFIT; modern technology, large plots, may contribute to pollution"
+        },
+        {
+          "subtopic": "Housing & Behaviour",
+          "q": "Give FOUR reasons why a farmer provides shelter for farm animals.",
+          "marks": 4,
+          "memo": "\u2022 Protection against predators\n\u2022 Protection against extreme weather (heat/cold)\n\u2022 Protection against wetting by rain\n\u2022 Improves production performance"
+        },
+        {
+          "subtopic": "Housing & Behaviour",
+          "q": "Distinguish between: (i) Feedlot (ii) Battery cage system (iii) Broiler unit.",
+          "marks": 6,
+          "memo": "\u2022 Feedlot: restricted area for large animals kept for maximum MEAT production\n\u2022 Battery system: restricted cage system for LAYERS to maximise EGG production\n\u2022 Broiler unit: restricted area for chickens raised for maximum MEAT production"
+        },
+        {
+          "subtopic": "Housing & Behaviour",
+          "q": "State FOUR basic layout requirements for a CHICKEN HOUSE.",
+          "marks": 4,
+          "memo": "\u2022 Built on a slight slope for water run-off\n\u2022 Dry bedding (straw, sawdust, wood shavings)\n\u2022 Long side of building faces EAST (warm in winter, cool in summer)\n\u2022 Adequate ventilation"
+        },
+        {
+          "subtopic": "Animal Handling",
+          "q": "Define FLIGHT ZONE and identify the following positions in the flight zone diagram: (A) Handler (C) Blind spot (D) Balance point.",
+          "marks": 4,
+          "memo": "\u2022 Flight zone: the distance an animal keeps between itself and a perceived threat/danger\n\u2022 A = Handler: must stand OUTSIDE the flight zone edge to safely initiate movement\n\u2022 C = Blind spot: area directly behind the animal where it cannot see and may KICK if approached\n\u2022 D = Balance point: point at the shoulder controlling forward/backward movement of the animal"
+        },
+        {
+          "subtopic": "Animal Handling",
+          "q": "Name FOUR abnormal behaviours of CATTLE under distress.",
+          "marks": 4,
+          "memo": "\u2022 Pawing / Rapid tail movement / Raised back fur / Snorting (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Animal Handling",
+          "q": "Name FOUR abnormal behaviours of PIGS under distress.",
+          "marks": 4,
+          "memo": "\u2022 Tail biting / Ear biting / Cannibalism / Belly nibbling (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Animal Handling",
+          "q": "Give FOUR reasons why farm animals need to be handled.",
+          "marks": 4,
+          "memo": "\u2022 Administering medication / Dehorning, castration, docking / Milking / Taking body weight, pregnancy testing, inseminating, transporting (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Animal Handling",
+          "q": "Describe the DESIGN FEATURES and PURPOSE of a CRUSH.",
+          "marks": 4,
+          "memo": "\u2022 Purpose: used to restrain large animals for treatment, dehorning or inspection\n\u2022 Design: high, strong, solid sides\n\u2022 Design: wide and straight to provide a clear path\n\u2022 Design: no sharp protruding objects"
+        },
+        {
+          "subtopic": "Animal Handling",
+          "q": "State TWO design features of a loading RAMP.",
+          "marks": 2,
+          "memo": "\u2022 Should NOT be slippery (non-slip surface/grooves)\n\u2022 Should NOT be too steep (gentle slope)"
+        },
+        {
+          "subtopic": "Animal Handling",
+          "q": "Name TWO INCORRECT handling methods of farm animals.",
+          "marks": 2,
+          "memo": "\u2022 Throwing objects at animals\n\u2022 Picking up chickens by their feathers (should be by feet/wings)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Compile a table showing FIVE signs of GOOD HEALTH and FIVE corresponding signs of POOR HEALTH in farm animals.",
+          "marks": 10,
+          "memo": "\u2022 Normal urine and faeces\n\u2022 Normal milk production\n\u2022 Animal walks normally\n\u2022 Normal breathing rate\n\u2022 Normal body temperature and pulse rate  *POOR HEALTH:*\n\u2022 Discoloured urine; faeces too soft or too hard\n\u2022 Low milk production\n\u2022 Animal walks slowly/limps\n\u2022 Forced/laboured breathing\n\u2022 High body temperature; loss of appetite"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Explain how to TEST a farm animal's BODY TEMPERATURE: name the instrument, site of insertion and normal range. State TWO precautions.",
+          "marks": 4,
+          "memo": "\u2022 Instrument: rectal thermometer\n\u2022 Site of insertion: rectum\n\u2022 Normal range: 37\u00b0C -- 40\u00b0C\n\u2022 Precautions: tie thermometer with string so it isn't lost in the body; lubricate with sterile jelly"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Distinguish between INTRAVENOUS, INTRAMUSCULAR, SUBCUTANEOUS and INTRADERMAL routes of medicine administration.",
+          "marks": 4,
+          "memo": "\u2022 Intravenous: into the VEIN --- fastest acting\n\u2022 Intramuscular: into the MUSCLE\n\u2022 Subcutaneous: under the SKIN\n\u2022 Intradermal: between the LAYERS of skin"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Define each of the following: (i) Contagious disease (ii) Zoonotic disease (iii) Notifiable disease (iv) Epidemic disease.",
+          "marks": 4,
+          "memo": "\u2022 Contagious disease: spreads through CONTACT\n\u2022 Zoonotic disease: can spread from animals to humans and vice versa\n\u2022 Notifiable disease: must be REPORTED to authorities upon observation\n\u2022 Epidemic disease: affects a LARGE number of animals in an area"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name the animals affected, FOUR symptoms, mode of transmission and treatment for FOOT AND MOUTH DISEASE.",
+          "marks": 6,
+          "memo": "\u2022 Animals affected: ALL farm animals (cloven-hoofed)\n\u2022 Symptoms: sores in mouth, tongue and hooves; high fever; excessive salivation (any 4 of these)\n\u2022 Transmission: ingesting contaminated feed; contact with secretions/excretions of infected animals\n\u2022 Treatment: vaccination; quarantine; slaughter and burn infected animals"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name the animals affected, symptoms, mode of transmission and treatment for RABIES.",
+          "marks": 5,
+          "memo": "\u2022 Animals affected: ALL farm animals (and humans)\n\u2022 Symptoms: high fever, aggression, excessive salivation, paralysis of hindquarters\n\u2022 Transmission: bite from an infected animal\n\u2022 Treatment: vaccination; destroy infected animals and burn meat"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name the animals affected, symptoms, mode of transmission and treatment for RIFT VALLEY FEVER.",
+          "marks": 5,
+          "memo": "\u2022 Animals affected: ALL farm animals\n\u2022 Symptoms: high fever; abortion\n\u2022 Transmission: mosquito bite; handling infected meat/blood\n\u2022 Treatment: vaccination; slaughter and burn infected animals"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name the animals affected, symptoms, mode of transmission and treatment for NEW CASTLE DISEASE.",
+          "marks": 4,
+          "memo": "\u2022 Animals affected: POULTRY\n\u2022 Symptoms: twisted neck, green diarrhoea, rapid breathing\n\u2022 Transmission: eating/drinking contaminated feed/water\n\u2022 Treatment: vaccination; quarantine"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name the pathogen type, animals affected, symptoms and treatment for MASTITIS.",
+          "marks": 4,
+          "memo": "\u2022 Pathogen type: BACTERIA\n\u2022 Animals affected: dairy cattle\n\u2022 Symptoms: sores/swelling in udder; drop in milk production\n\u2022 Treatment: intramammary antibiotic injection"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "List FIVE measures for the PREVENTION of animal diseases.",
+          "marks": 5,
+          "memo": "\u2022 Vaccination / Quarantine / Movement permits / Dipping / Proper nutrition (any 5 \u00d7 1)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name FIVE economic implications of animal disease on a farm.",
+          "marks": 5,
+          "memo": "\u2022 Loss of production (milk, meat, eggs) / Cost of treatment / Loss of animals through death / Loss of markets/trade bans / Decline in livestock value (any 5 \u00d7 1)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Distinguish between ENDOPARASITES and ECTOPARASITES.",
+          "marks": 2,
+          "memo": "\u2022 Endoparasite: lives INSIDE the body of the host\n\u2022 Ectoparasite: lives OUTSIDE the body on the skin of the host"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Describe the LIFE CYCLE of the LIVER FLUKE naming all stages and hosts. State THREE control methods.",
+          "marks": 8,
+          "memo": "\u2022 Adult fluke in the liver of the PRIMARY host (e.g. cattle/sheep) lays eggs\n\u2022 Eggs are released in FAECES onto pasture\n\u2022 Eggs hatch into larvae (MIRACIDIUM) in water/grass\n\u2022 Larvae enter the INTERMEDIATE host (snail)\n\u2022 Larvae develop and leave the snail forming CYSTS (cercaria) on grass\n\u2022 Cysts are eaten by the primary host and develop into adult flukes in the liver\n\u2022 Control: destroy intermediate hosts (snails) / burn veld / rotational grazing (any 2 \u00d7 1)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Distinguish between BLUE-TICK, BONT-LEGGED TICK and BONT-TICK regarding: number of hosts and disease caused.",
+          "marks": 6,
+          "memo": "\u2022 Blue-tick: ONE host; causes Red-water and Gall-sickness (Anaplasmosis)\n\u2022 Bont-legged tick: TWO hosts; causes Red-water\n\u2022 Bont-tick: THREE hosts; causes Heart-water and Congo fever"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Describe FIVE ways to control BLOWFLY infestation in sheep.",
+          "marks": 5,
+          "memo": "\u2022 Tail docking / Crouching (removal of wool around tail and legs) / Wool shearing / Dipping / Treatment of wounds (any 5 \u00d7 1)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Define UREA POISONING. Name FOUR symptoms and state the treatment.",
+          "marks": 5,
+          "memo": "\u2022 Definition: occurs when urea intake is too high or poorly mixed --- excess nitrogen is converted to toxic AMMONIA\n\u2022 Symptoms: bloating, rapid death, nervous excitement, incoordination (any 4 \u00d7 1)\n\u2022 Treatment: administer VINEGAR Treatment included above"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "For THORN APPLE: state FOUR symptoms, treatment and TWO prevention methods.",
+          "marks": 6,
+          "memo": "\u2022 Symptoms: loss of appetite, extreme mouth dryness, slow growth, pupil dilation (any 4 \u00d7 1)\n\u2022 Treatment: administer activated charcoal\n\u2022 Prevention: remove infected plants from grazing area; practice rotational grazing (any 1)"
+        },
+        {
+          "subtopic": "Identification methods",
+          "q": "Compare ear tagging and branding as methods of livestock identification, giving ONE advantage and ONE disadvantage of each.",
+          "marks": 4,
+          "memo": "\u2022 Ear tagging: Advantage \u2014 easy to read/apply, relatively low cost; Disadvantage \u2014 tags can be lost/torn out \u2713\u2713\n\u2022 Branding: Advantage \u2014 permanent, highly visible; Disadvantage \u2014 causes pain/stress to the animal and can damage the hide \u2713\u2713"
+        },
+        {
+          "subtopic": "Disease prevention",
+          "q": "Explain the importance of a vaccination programme on a livestock farm.",
+          "marks": 4,
+          "memo": "\u2022 Vaccination stimulates the animal's immune system to produce antibodies against specific diseases \u2713\u2713\n\u2022 This provides protection/immunity, reducing the risk and severity of disease outbreaks \u2713\n\u2022 This reduces production losses, treatment costs and mortality, improving overall farm profitability \u2713"
+        },
+        {
+          "subtopic": "Biosecurity",
+          "q": "Describe THREE biosecurity measures a farmer can implement to reduce the risk of disease outbreaks on the farm.",
+          "marks": 6,
+          "memo": "\u2022 Quarantine new animals before introducing them to the herd \u2713\u2713\n\u2022 Control access of visitors/vehicles onto the farm and provide foot baths/disinfection points \u2713\u2713\n\u2022 Maintain a regular vaccination and parasite control (dipping/deworming) programme \u2713\u2713 (any 3 valid measures)"
+        },
+        {
+          "subtopic": "Husbandry practices",
+          "q": "Explain TWO reasons why farmers commonly castrate male animals not intended for breeding purposes.",
+          "marks": 4,
+          "memo": "\u2022 Reduces aggressive and sexual behaviour, making animals easier and safer to manage \u2713\u2713\n\u2022 Improves meat quality/tenderness and prevents unwanted/uncontrolled breeding within the herd \u2713\u2713"
+        },
+        {
+          "subtopic": "Production systems",
+          "q": "Distinguish between extensive and intensive livestock production systems, giving an example of each.",
+          "marks": 4,
+          "memo": "\u2022 Extensive: low stocking density, animals graze over large natural areas, lower input costs, e.g. beef cattle on veld/rangeland \u2713\u2713\n\u2022 Intensive: high stocking density, confined animals, formulated feed, higher input costs, e.g. a feedlot or broiler house \u2713\u2713"
+        },
+        {
+          "subtopic": "Grazing management",
+          "q": "Explain the concept of carrying capacity and describe the consequences of overstocking land beyond its carrying capacity.",
+          "marks": 4,
+          "memo": "\u2022 Carrying capacity: the maximum number of animals an area of land can sustainably support without long-term damage to the veld/pasture \u2713\n\u2022 Overstocking exceeds this capacity \u2713\n\u2022 Consequences: overgrazing, soil erosion/compaction, decline in pasture quality and quantity, ultimately reduced animal production \u2713\u2713"
+        },
+        {
+          "subtopic": "Animal welfare",
+          "q": "List FOUR of the 'Five Freedoms' of animal welfare.",
+          "marks": 4,
+          "memo": "\u2022 Freedom from hunger and thirst \u2713\n\u2022 Freedom from discomfort \u2713\n\u2022 Freedom from pain, injury or disease \u2713\n\u2022 Freedom to express normal behaviour \u2713\n\u2022 Freedom from fear and distress \u2713 (any 4)"
+        }
+      ]
+    },
+    "animal-reproduction": {
+      "mcq": [
+        {
+          "q": "The single, narrow, coiled tube that stores, matures, and transports sperm from the TESTES to the VAS DEFERENS is the ...",
+          "opts": [
+            "Seminal vesicle",
+            "Prostate gland",
+            "Epididymis",
+            "Cowper\\'s gland"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Epididymis"
+        },
+        {
+          "q": "During which stage of the oestrus cycle does OVULATION (release of egg from follicle) take place?",
+          "opts": [
+            "Pro-oestrus",
+            "Oestrus",
+            "Met-oestrus",
+            "Di-oestrus"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Met-oestrus"
+        },
+        {
+          "q": "The organ in the female reproductive system that RETAINS AND NOURISHES the embryo/foetus during gestation is the ...",
+          "opts": [
+            "Ovary",
+            "Oviduct",
+            "Cervix",
+            "Uterus"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Uterus"
+        },
+        {
+          "q": "The FIRST MILK released after calving, which is rich in antibodies and immunoglobulins, is called ...",
+          "opts": [
+            "Skim milk",
+            "Colostrum",
+            "Whey",
+            "Fore-milk"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Colostrum"
+        },
+        {
+          "q": "An infertile cow with MASCULINISED BEHAVIOUR and non-functioning ovaries is called a ...",
+          "opts": [
+            "Nymphomaniac",
+            "Repeat breeder",
+            "Freemartin",
+            "Anoestrus cow"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Freemartin"
+        },
+        {
+          "q": "Which hormone is secreted by the CORPUS LUTEUM and functions to MAINTAIN PREGNANCY?",
+          "opts": [
+            "Oestrogen",
+            "FSH",
+            "LH",
+            "Progesterone"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Progesterone"
+        },
+        {
+          "q": "from the abdominal cavity into the scrotum is called ...",
+          "opts": [
+            "Azoospermia",
+            "Cryptorchidism",
+            "Hermaphroditism",
+            "Hypoplasia"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Cryptorchidism"
+        },
+        {
+          "q": "During EMBRYO TRANSFER, the cow that CARRIES the embryo to full term is called the ...",
+          "opts": [
+            "Donor",
+            "Surrogate (Recipient)",
+            "Elite cow",
+            "Superovulated cow"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Surrogate (Recipient)"
+        },
+        {
+          "q": "Artificial Insemination (AI) involves ...",
+          "opts": [
+            "Natural mating between a bull and cow",
+            "Collecting semen from a male and manually introducing it into the female reproductive tract using instruments",
+            "Surgically removing an embryo",
+            "Injecting hormones to prevent pregnancy"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. AI allows farmers to use genetically superior sires without the need to keep/transport breeding males."
+        },
+        {
+          "q": "A major ADVANTAGE of Artificial Insemination (AI) on a livestock farm is that it ...",
+          "opts": [
+            "Increases the risk of spreading venereal disease compared to natural mating",
+            "Allows access to genetically superior sires, increases the number of females a single male's semen can impregnate, and reduces the cost/risk of keeping a breeding male",
+            "Requires no special training or equipment",
+            "Always produces female offspring"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. AI dramatically increases the genetic impact of top-quality sires across many herds."
+        },
+        {
+          "q": "A DISADVANTAGE of Artificial Insemination (AI) is that it ...",
+          "opts": [
+            "Has no associated costs",
+            "Requires skilled, trained personnel, specialised equipment, and accurate heat detection for successful timing",
+            "Eliminates the need for record keeping",
+            "Cannot be used in cattle"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Success depends on correctly identifying when a female is in oestrus (heat) and proper technique/equipment."
+        },
+        {
+          "q": "Embryo Transfer (ET) is a reproductive technology in which ...",
+          "opts": [
+            "Semen is collected and frozen",
+            "A fertilised embryo from a genetically superior donor female is collected and implanted into the uterus of a recipient (surrogate) female",
+            "Hormones are used purely for synchronisation, with no embryo movement involved",
+            "Only male animals are involved"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. ET allows a single valuable female to produce many more offspring per year than natural reproduction would allow."
+        },
+        {
+          "q": "Oestrus synchronisation, achieved through hormone treatment, allows farmers to ...",
+          "opts": [
+            "Permanently sterilise a group of females",
+            "Bring a group of females into heat (oestrus) at approximately the same time, simplifying AI scheduling and management",
+            "Prevent all females from ever conceiving",
+            "Eliminate the need for pregnancy diagnosis"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Synchronisation makes batch AI and calving/lambing seasons more predictable and manageable."
+        },
+        {
+          "q": "Pregnancy diagnosis in livestock (e.g. via rectal palpation or ultrasound) is important mainly because it allows farmers to ...",
+          "opts": [
+            "Increase feed costs unnecessarily",
+            "Identify non-pregnant (open) females early so they can be re-bred or culled, improving overall reproductive efficiency",
+            "Replace the need for record keeping",
+            "Guarantee the sex of the offspring"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Early pregnancy diagnosis reduces the number of unproductive days in a breeding female's reproductive cycle."
+        },
+        {
+          "q": "Pure breeding (mating animals of the same breed) is mainly used to ...",
+          "opts": [
+            "Introduce hybrid vigour",
+            "Maintain and improve the genetic uniformity/desirable characteristics of a specific breed",
+            "Reduce the value of breeding stock",
+            "Eliminate all genetic variation immediately"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Pure breeding preserves recognised breed characteristics, useful for producing registered stud/breeding animals."
+        },
+        {
+          "q": "Crossbreeding (mating animals of two different breeds) is mainly used to ...",
+          "opts": [
+            "Reduce productivity",
+            "Combine desirable traits of two breeds and take advantage of hybrid vigour (heterosis) in the offspring",
+            "Increase inbreeding depression",
+            "Eliminate genetic variation"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Crossbred offspring often outperform either pure parent breed for traits like growth rate and disease resistance."
+        },
+        {
+          "q": "Hybrid vigour (heterosis) refers to ...",
+          "opts": [
+            "The decline in performance seen in inbred animals",
+            "The improved performance (e.g. growth, fertility, disease resistance) often observed in crossbred offspring compared to their purebred parents",
+            "A genetic disorder",
+            "A type of vaccination"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Heterosis arises because crossbred offspring inherit a wider range of beneficial alleles, often masking harmful recessive traits."
+        },
+        {
+          "q": "Inbreeding (mating closely related animals) carries the risk of ...",
+          "opts": [
+            "Increasing hybrid vigour",
+            "Increasing the expression of harmful recessive alleles, leading to inbreeding depression (reduced fertility, vigour, and increased genetic defects)",
+            "Eliminating all genetic defects",
+            "Guaranteeing improved performance"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Close relatives are more likely to share the same recessive alleles, increasing the chance of homozygous recessive (often harmful) offspring."
+        },
+        {
+          "q": "Selective breeding involves ...",
+          "opts": [
+            "Randomly choosing breeding animals",
+            "Deliberately choosing breeding animals with desirable traits to be parents of the next generation, gradually improving the herd/flock over time",
+            "Preventing all animals from breeding",
+            "Using only artificial insemination"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Selective breeding is the foundation of genetic improvement programmes in livestock."
+        },
+        {
+          "q": "The average gestation period of cattle is approximately ...",
+          "opts": [
+            "21 days",
+            "283 days (about 9 months)",
+            "114 days",
+            "365 days"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Cattle gestation averages around 283 days, similar in length to human pregnancy."
+        },
+        {
+          "q": "The average gestation period of sheep is approximately ...",
+          "opts": [
+            "283 days",
+            "147\u2013150 days (about 5 months)",
+            "21 days",
+            "365 days"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Sheep have a notably shorter gestation period than cattle."
+        },
+        {
+          "q": "The average gestation period of a pig (sow) is approximately ...",
+          "opts": [
+            "283 days",
+            "114 days ('3 months, 3 weeks, 3 days')",
+            "21 days",
+            "147 days"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Pig gestation is commonly remembered as '3 months, 3 weeks and 3 days'."
+        },
+        {
+          "q": "Colostrum, the first milk produced after birth, is especially important for newborn livestock because it ...",
+          "opts": [
+            "Contains no nutritional value",
+            "Is rich in antibodies (passive immunity), providing the newborn with vital disease protection before its own immune system matures",
+            "Should be avoided in the first 24 hours",
+            "Causes scours/diarrhoea"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Newborn mammals are born with little/no immunity and rely on colostrum's antibodies for early protection against disease."
+        },
+        {
+          "q": "Dystocia refers to ...",
+          "opts": [
+            "A normal, unassisted birth",
+            "Difficult or obstructed birth/labour, often requiring human assistance",
+            "A type of vaccination",
+            "The act of weaning offspring"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Dystocia can result from factors such as an oversized foetus, poor positioning, or a narrow birth canal, and may require veterinary intervention."
+        },
+        {
+          "q": "Weaning refers to the process of ...",
+          "opts": [
+            "Giving birth",
+            "Gradually stopping a young animal's dependence on its mother's milk and transitioning it onto solid feed",
+            "Mating two animals",
+            "Diagnosing pregnancy"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Proper weaning management reduces stress on both the dam and offspring while supporting continued healthy growth."
+        }
+      ],
+      "practice": [
+        {
+          "subtopic": "Male Reproductive System",
+          "q": "Name the NINE structures of the male reproductive system (A--I): Seminal vesicle, Prostate gland, Cowper's gland, Sperm duct, Urethra, Penis, Epididymis, Testis, Scrotum.",
+          "marks": 9,
+          "memo": "\u2022 A = Seminal vesicle\n\u2022 B = Prostate gland\n\u2022 C = Cowper's gland\n\u2022 D = Sperm duct (vas deferens)\n\u2022 E = Urethra\n\u2022 F = Penis\n\u2022 G = Epididymis\n\u2022 H = Testis\n\u2022 I = Scrotum"
+        },
+        {
+          "subtopic": "Male Reproductive System",
+          "q": "State the function of EACH of the following: (i) Scrotum (ii) Testis (iii) Testosterone (iv) Epididymis (v) Sperm duct (vi) Urethra (vii) Penis.",
+          "marks": 7,
+          "memo": "\u2022 Scrotum: holds/protects testes; regulates temperature for sperm production\n\u2022 Testis: produces sperm and testosterone\n\u2022 Testosterone: stimulates sperm production and male secondary characteristics\n\u2022 Epididymis: stores, matures and transports sperm\n\u2022 Sperm duct: transports sperm to the urethra\n\u2022 Urethra: transports urine and semen to the outside\n\u2022 Penis: deposits semen into the female during mating"
+        },
+        {
+          "subtopic": "Male Reproductive System",
+          "q": "Name the THREE specialised cells in the testes and state the function of each.",
+          "marks": 6,
+          "memo": "\u2022 Sertoli cells: supply sperm cells with nutrients\n\u2022 Leydig (interstitial) cells: produce testosterone\n\u2022 Epithelial (germinal) cells: produce sperm via spermatogenesis"
+        },
+        {
+          "subtopic": "Male Reproductive System",
+          "q": "Explain the process of SPERMATOGENESIS in four steps.",
+          "marks": 8,
+          "memo": "\u2022 Step 1: Spermatogonium divides by MITOSIS to form primary spermatocytes (diploid)\n\u2022 Step 2: Primary spermatocyte divides by MEIOSIS I to form secondary spermatocytes\n\u2022 Step 3: Secondary spermatocyte divides by MEIOSIS II to form haploid spermatids\n\u2022 Step 4: Spermatid differentiates and develops into a mature SPERM cell"
+        },
+        {
+          "subtopic": "Male Reproductive System",
+          "q": "Name and state the function of EACH part of the sperm cell: Acrosome, Nucleus, Centriole, Mitochondria, Tail/Flagellum.",
+          "marks": 5,
+          "memo": "\u2022 Acrosome: contains enzymes to digest the egg's outer membrane during fertilisation\n\u2022 Nucleus: contains genetic material (DNA)\n\u2022 Centriole: assists in cell division\n\u2022 Mitochondria: supply energy (ATP) for sperm movement\n\u2022 Tail/Flagellum: enables sperm movement (propulsion)"
+        },
+        {
+          "subtopic": "Male Reproductive System",
+          "q": "Distinguish between SPERM CELL and SEMEN.",
+          "marks": 2,
+          "memo": "\u2022 Sperm cell: the male GAMETE\n\u2022 Semen: the FLUID containing sperm and secretions of accessory glands"
+        },
+        {
+          "subtopic": "Male Reproductive System",
+          "q": "Distinguish between STERILITY and INFERTILITY in a bull. Name TWO factors causing EACH.",
+          "marks": 8,
+          "memo": "\u2022 PERMANENT inability to reproduce; total loss of fertility; caused by congenital defects\n\u2022 Causes: Hypoplasia (underdeveloped testes) / Cryptorchidism (undescended testes) (any 2 \u00d7 1)  *INFERTILITY:*\n\u2022 TEMPORARY inability to reproduce; fertility NOT totally lost; CAN be corrected\n\u2022 Causes: Obesity / Impotence / Poor nutrition (any 2 \u00d7 1)"
+        },
+        {
+          "subtopic": "Female & Oestrus",
+          "q": "State the function of EACH of the following: (i) Ovary (ii) Oestrogen (iii) Progesterone (iv) Oviduct (v) Uterus (vi) Cervix (vii) Vagina.",
+          "marks": 7,
+          "memo": "\u2022 Ovary: produces ova (eggs) and hormones oestrogen & progesterone\n\u2022 Oestrogen: stimulates oestrus, endometrium thickening, female characteristics\n\u2022 Progesterone: maintains pregnancy; prepares uterine wall for implantation\n\u2022 Oviduct: catches egg at ovulation; site of fertilisation; transports egg to uterus\n\u2022 Uterus: site of implantation and foetal development\n\u2022 Cervix: secretes mucus to prevent infection; neutralises vaginal acidity\n\u2022 Vagina: receives semen during mating; serves as birth canal"
+        },
+        {
+          "subtopic": "Female & Oestrus",
+          "q": "Name TWO processes that occur in the OVARY and TWO processes that occur in the OVIDUCT.",
+          "marks": 4,
+          "memo": "\u2022 Ovary: Oogenesis (egg formation) / Meiosis (any 2)\n\u2022 Oviduct: Fertilisation / Transport of fertilised egg (any 2)"
+        },
+        {
+          "subtopic": "Female & Oestrus",
+          "q": "Name and define TWO causes of STERILITY in cows.",
+          "marks": 4,
+          "memo": "\u2022 Hypoplasia: underdevelopment of one/both ovaries\n\u2022 Hermaphroditism: presence of both male and female reproductive organs"
+        },
+        {
+          "subtopic": "Female & Oestrus",
+          "q": "Name and define THREE causes of INFERTILITY in cows.",
+          "marks": 6,
+          "memo": "\u2022 Anoestrus: animal shows no signs of oestrus\n\u2022 Nymphomania: cow is permanently on heat\n\u2022 Repeat breeder: fails to conceive after several mating attempts"
+        },
+        {
+          "subtopic": "Mating & Parturition",
+          "q": "Name FIVE female hormones controlling the oestrus cycle and state the function of EACH.",
+          "marks": 10,
+          "memo": "\u2022 GnRH (hypothalamus): stimulates release of FSH and LH\n\u2022 FSH (hypophysis): stimulates follicle development on the ovary\n\u2022 Oestrogen (follicle): stimulates oestrus and endometrium development\n\u2022 LH (hypophysis): triggers ovulation and corpus luteum formation\n\u2022 Progesterone (corpus luteum): maintains pregnancy"
+        },
+        {
+          "subtopic": "Mating & Parturition",
+          "q": "Name and describe the FOUR stages of the oestrus cycle in cows, including duration for each stage.",
+          "marks": 8,
+          "memo": "\u2022 Pro-oestrus (\u22483 days): follicle develops before oestrus\n\u2022 Oestrus (\u224818 hours): female receptive --- 'standing heat'\n\u2022 Met-oestrus (\u22484 days): ovulation occurs; corpus luteum begins to form\n\u2022 Di-oestrus (\u224816 days): corpus luteum fully developed, secretes progesterone; if not fertilised, it degenerates and the cycle restarts"
+        },
+        {
+          "subtopic": "Mating & Parturition",
+          "q": "Name FOUR signs of oestrus (heat) in cows.",
+          "marks": 4,
+          "memo": "\u2022 Standing to be mounted by other cows / Restlessness/bellowing / Clear mucous discharge from vulva / Swollen red vulva, decreased appetite/milk (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Mating & Parturition",
+          "q": "Name and describe FOUR alternative methods of detecting a cow on heat.",
+          "marks": 8,
+          "memo": "\u2022 Chin-ball marker: strapped on teaser animal's chin; leaves ink streak on mounted cow\n\u2022 Chalking: chalk on cow's back/tail rubs off when mounted\n\u2022 Pedometer: strapped to leg, detects increased movement\n\u2022 Heat detector/Kamaar: glued to back, changes colour (white\u2192red) under pressure"
+        },
+        {
+          "subtopic": "Mating & Parturition",
+          "q": "Define SYNCHRONISATION OF OESTRUS and name TWO hormones used during this process.",
+          "marks": 4,
+          "memo": "\u2022 Definition: bringing a group of females into oestrus at approximately the SAME time\n\u2022 Hormones used: MGA (fed) and Prostaglandin (injected)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Define ARTIFICIAL INSEMINATION (AI).",
+          "marks": 2,
+          "memo": "\u2022 AI: technique of collecting semen from a male and depositing it into the female's reproductive tract for fertilisation"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name FOUR methods of semen collection.",
+          "marks": 4,
+          "memo": "\u2022 Electro-ejaculator / Artificial vagina / Collection from slaughtered animals / Manual stimulation (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "State the purpose of EACH of the following semen diluents: (i) Skimmed milk (ii) Egg yolk (iii) Glycerol (iv) Antibiotics.",
+          "marks": 4,
+          "memo": "\u2022 Skimmed milk: controls/buffers pH\n\u2022 Egg yolk: protects against temperature changes\n\u2022 Glycerol: prevents freezing damage to sperm\n\u2022 Antibiotics: prevent bacterial infection"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Describe MACROSCOPIC evaluation of semen colour: state what RED, BROWN and GREY colour indicate.",
+          "marks": 3,
+          "memo": "\u2022 Red: indicates FRESH blood contamination\n\u2022 Brown: indicates INFECTION\n\u2022 Grey: indicates OLD blood contamination"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "List THREE advantages and TWO disadvantages of Artificial Insemination.",
+          "marks": 5,
+          "memo": "\u2022 Advantages (any 3): genetic material of a superior bull used widely; semen usable after the male's death; reduced disease transmission; cheaper than keeping a bull; semen transportable\n\u2022 Disadvantages (any 2): requires skilled technician; equipment needed; accurate timing required"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "List the FIVE steps of EMBRYO TRANSFER in the correct order.",
+          "marks": 5,
+          "memo": "\u2022 1. Synchronisation of donor and recipient\n\u2022 2. Superovulation of donor\n\u2022 3. AI of donor\n\u2022 4. Embryo flushing from donor\n\u2022 5. Embryo transfer to recipient"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Give TWO advantages and TWO disadvantages of EMBRYO TRANSFER.",
+          "marks": 4,
+          "memo": "\u2022 Advantages (any 2): more offspring from a genetically superior donor; donor continues producing while recipient carries the calf\n\u2022 Disadvantages (any 2): expensive; requires skilled technician; not always successful"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Define CLONING and name the TWO types of cloning, explaining each.",
+          "marks": 6,
+          "memo": "\u2022 Cloning: producing an offspring GENETICALLY IDENTICAL to the original organism\n\u2022 Reproductive cloning: results in a whole organism; cloned embryo placed in a surrogate uterus\n\u2022 Therapeutic cloning: used to produce organs/tissues/cells from stem cells for medical purposes --- NOT to create offspring"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Define PREGNANCY (gestation) and state the gestation period of a cow.",
+          "marks": 2,
+          "memo": "\u2022 Pregnancy: the period from fertilisation to birth. Cow gestation = 280 days"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name and describe the THREE extra-embryonic membranes that cover the embryo.",
+          "marks": 6,
+          "memo": "\u2022 Chorion: outer membrane attached to the uterus wall\n\u2022 Amnion: inner membrane enclosing amniotic fluid; connected to embryo via umbilical cord\n\u2022 Allantois: arises from urinary system; collects foetal urine"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name and describe the THREE primordial germ layers of an embryo.",
+          "marks": 6,
+          "memo": "\u2022 Ectoderm: outer layer --- forms nervous system & skin\n\u2022 Mesoderm: middle layer --- forms muscles, bones, urogenital organs\n\u2022 Endoderm: inner layer --- forms digestive system & internal organs"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Define ABORTION and give THREE causes.",
+          "marks": 4,
+          "memo": "\u2022 Abortion: termination of pregnancy before normal parturition\n\u2022 Causes (any 3): disease/infection, nutritional deficiency, hormonal imbalance, physical injury, genetic defects, stress"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Describe MUMMIFICATION, RESORPTION, MACERATION and HYDRO-FOETUS.",
+          "marks": 8,
+          "memo": "\u2022 Mummification: foetus dies after skin/skeleton form; amniotic fluid and placenta dry out\n\u2022 Resorption: pregnancy terminates without visible signs; foetus is absorbed\n\u2022 Maceration: decay of soft tissue, leaving only bones; risk of bacterial infection\n\u2022 Hydro-foetus: excessive amniotic fluid collects around/in the foetus"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name FOUR signs of PARTURITION in a cow.",
+          "marks": 4,
+          "memo": "\u2022 Cow isolates herself / Udder swells / Vulva swells and relaxes / Restlessness, frequent lying down (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name and describe the THREE stages of PARTURITION.",
+          "marks": 6,
+          "memo": "\u2022 Preparatory stage: cervix dilates, uterine muscles contract\n\u2022 Ejection stage: amniotic sac appears; calf born head and forelegs first\n\u2022 Expulsion of placenta: placenta and umbilical cord expelled"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name FOUR causes of DYSTOCIA and describe TWO indigenous treatments.",
+          "marks": 6,
+          "memo": "\u2022 Causes: deviation of head, retention of forelegs, hydrocephalus, twins, posterior presentation, large foetus (any 4 \u00d7 1)\n\u2022 Indigenous treatments: apply oils/grease to ease delivery; apply vinegar; contact traditional healer (any 2 \u00d7 1)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Define LACTATION and state its duration in a dairy cow.",
+          "marks": 2,
+          "memo": "\u2022 Lactation: milk production process; duration \u2248 305 days"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name the hormones involved in the MILKING REFLEX and state the function of each.",
+          "marks": 4,
+          "memo": "\u2022 Prolactin: stimulates milk PRODUCTION\n\u2022 Oxytocin: stimulates milk RELEASE (let-down)\n\u2022 Oestrogen (high levels): inhibits/stops milk production"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "List FIVE characteristics of COLOSTRUM.",
+          "marks": 5,
+          "memo": "\u2022 First milk after calving (within ~3 days) / Yellower colour / Higher in protein, fats, lactose, minerals / Increases disease resistance (antibodies) / Rich in immunoglobulins (any 5 \u00d7 1)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "The table below shows a cow's milk yield and butterfat content over a 40-week lactation period: --------------------- ------------------------ ------------------------ **WEEKS** **MILK YIELD (litres)** **MILK BUTTERFAT CONTENT (%)** 1 30 5 10 30 10 20 20 20 30 10 30 40 5 30 --------------------- ------------------------ ------------------------ **(a)** Present the information in a LINE GRAPH with key, labels and title.",
+          "marks": 6,
+          "memo": "\u2022 Graph (6): correct x-axis (Weeks) and y-axis (Litres / %); two clearly labelled lines with a key/legend; accurate plotting of all 5 data points for each variable; suitable title\n\u2022 Relationship (4): as MILK PRODUCTION increases, BUTTERFAT content DECREASES; as milk production declines after peak (week 1--10), butterfat content steadily INCREASES toward the end of lactation (week 40)"
+        },
+        {
+          "subtopic": "Reproductive technology",
+          "q": "Discuss TWO advantages and ONE disadvantage of using Artificial Insemination (AI) compared to natural mating on a commercial farm.",
+          "marks": 6,
+          "memo": "Advantages (any 2):\n\u2022 Access to genetically superior sires without owning/transporting a breeding male \u2713\u2713\n\u2022 A single ejaculate can be used to inseminate many females, increasing genetic spread \u2713\u2713\n\u2022 Reduces the risk of spreading venereal/reproductive diseases compared to natural mating \u2713\u2713\nDisadvantage:\n\u2022 Requires skilled labour, equipment, and accurate heat detection/timing; can be costly \u2713\u2713"
+        },
+        {
+          "subtopic": "Breeding systems",
+          "q": "Explain the difference between pure breeding and crossbreeding, and describe ONE advantage of each.",
+          "marks": 6,
+          "memo": "\u2022 Pure breeding: mating animals of the SAME breed; maintains breed standards/uniform characteristics, used for stud breeding \u2713\u2713\u2713\n\u2022 Crossbreeding: mating animals of DIFFERENT breeds; takes advantage of hybrid vigour (heterosis), combining desirable traits of both breeds, often improving production traits \u2713\u2713\u2713"
+        },
+        {
+          "subtopic": "Gestation periods",
+          "q": "Tabulate the approximate gestation period of cattle, sheep and pigs.",
+          "marks": 3,
+          "memo": "\u2022 Cattle \u2014 approximately 283 days \u2713\n\u2022 Sheep \u2014 approximately 147\u2013150 days \u2713\n\u2022 Pigs \u2014 approximately 114 days \u2713"
+        },
+        {
+          "subtopic": "Neonatal care",
+          "q": "Explain the importance of colostrum intake for a newborn calf within the first 24 hours of life.",
+          "marks": 4,
+          "memo": "\u2022 Colostrum is rich in antibodies (immunoglobulins) \u2713\n\u2022 Newborn calves are born with little to no natural immunity of their own \u2713\n\u2022 Antibodies in colostrum can only be absorbed efficiently through the calf's gut wall within roughly the first 24 hours of life \u2713\n\u2022 This passive immunity protects the calf from disease until its own immune system develops \u2713"
+        },
+        {
+          "subtopic": "Inbreeding",
+          "q": "Explain why inbreeding (mating closely related animals) is generally avoided in commercial livestock breeding programmes.",
+          "marks": 3,
+          "memo": "\u2022 Closely related animals are more likely to carry the same recessive (often harmful) alleles \u2713\n\u2022 Inbreeding increases the chance of offspring being homozygous recessive for these harmful alleles, expressing genetic defects \u2713\n\u2022 This leads to 'inbreeding depression' \u2014 reduced fertility, vigour and overall productivity \u2713"
+        }
+      ]
+    }
+  },
+  "p2": {
+    "management-marketing": {
+      "mcq": [
+        {
+          "q": "The process involving the MOVEMENT of a product from the farm to the consumer is called ...",
+          "opts": [
+            "Packaging",
+            "Marketing",
+            "Selling",
+            "Processing"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Marketing"
+        },
+        {
+          "q": "The LAW OF DEMAND states that ...",
+          "opts": [
+            "Higher price leads to higher demand",
+            "Higher price leads to lower demand",
+            "Higher price leads to higher supply",
+            "Lower price leads to lower supply"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Higher price leads to lower demand"
+        },
+        {
+          "q": "MARKET EQUILIBRIUM is the point where ...",
+          "opts": [
+            "Supply exceeds demand",
+            "Demand exceeds supply",
+            "Demand and supply are equal",
+            "Government sets the price"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Demand and supply are equal"
+        },
+        {
+          "q": "A price floor (minimum price set by government/regulator) is typically set ...",
+          "opts": [
+            "Below equilibrium to prevent prices rising",
+            "Above equilibrium to prevent prices falling too low",
+            "Equal to equilibrium price",
+            "To deliberately cause a shortage"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Above equilibrium to prevent prices falling too low"
+        },
+        {
+          "q": "segment of a market is called ...",
+          "opts": [
+            "Mass marketing",
+            "Multi-segment marketing",
+            "Niche marketing",
+            "Sustainable marketing"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Niche marketing"
+        },
+        {
+          "q": "Two or more independent farms working together to meet common needs form an ...",
+          "opts": [
+            "Controlled marketing system",
+            "Free marketing system",
+            "Agricultural cooperative",
+            "Contract market"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Agricultural cooperative"
+        },
+        {
+          "q": "Selling livestock to the HIGHEST BIDDER in an open-market setting is called ...",
+          "opts": [
+            "Farm-gate marketing",
+            "Contract marketing",
+            "Stock auction",
+            "Fresh produce market"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Stock auction"
+        },
+        {
+          "q": "The marketing policy instrument focused on \\'HOW to convince consumers to buy the product\\' is ...",
+          "opts": [
+            "Price",
+            "Product",
+            "Placement",
+            "Promotion"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Promotion"
+        },
+        {
+          "q": "When the price of petrol increases and people STILL buy it because there is no substitute, this shows ...",
+          "opts": [
+            "Price elasticity of demand",
+            "Price inelasticity of demand",
+            "Shift in demand",
+            "Oversupply"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Price inelasticity of demand"
+        },
+        {
+          "q": "What is a disadvantage of selling produce through a fresh produce/auction market?",
+          "opts": [
+            "Middlemen take a cut of profit",
+            "The farmer must transport products to a distant market",
+            "Volume sold may be small and prices may fluctuate",
+            "Farmers lose direct contact with consumers"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Volume sold may be small and prices may fluctuate"
+        },
+        {
+          "q": "how to achieve them",
+          "opts": [
+            "A short list of annual expenses",
+            "A document describing how a business will operate, its goals, and",
+            "A government document authorising operation",
+            "A document showing only income and expenses"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. A document describing how a business will operate, its goals, and"
+        },
+        {
+          "q": "The FIRST phase of entrepreneurship is to ...",
+          "opts": [
+            "Develop a business plan",
+            "Determine resources required",
+            "Identify an opportunity",
+            "Start and manage the business"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Identify an opportunity"
+        },
+        {
+          "q": "What is the purpose of conducting a SWOT analysis on a farm business?",
+          "opts": [
+            "Calculate profit and loss",
+            "Evaluate a business by identifying internal and external factors",
+            "Determine market prices",
+            "Recruit employees"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Evaluate a business by identifying internal and external factors"
+        },
+        {
+          "q": "In a SWOT analysis, a competitor going bankrupt would be classified as a/an ...",
+          "opts": [
+            "Weakness",
+            "Strength",
+            "Threat",
+            "Opportunity"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Opportunity"
+        },
+        {
+          "q": "Increased competition and increased interest rates are examples of which SWOT component?",
+          "opts": [
+            "Strengths",
+            "Weaknesses",
+            "Opportunities",
+            "Threats"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Threats"
+        },
+        {
+          "q": "A sole proprietorship is a form of business ownership characterised by ...",
+          "opts": [
+            "Multiple owners with limited liability",
+            "A single owner who has full control but also unlimited personal liability for the business's debts",
+            "Shares traded on a stock exchange",
+            "Ownership by the government"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Sole proprietorships are simple and cheap to establish but expose the owner's personal assets to business risk."
+        },
+        {
+          "q": "A partnership, as a form of business ownership, is characterised by ...",
+          "opts": [
+            "A single owner only",
+            "Two or more people who jointly own and manage the business, sharing profits, losses and liability according to an agreement",
+            "Shares being publicly traded",
+            "No legal agreement being required"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Partnerships allow shared capital, skills and decision-making, but partners often share unlimited liability too."
+        },
+        {
+          "q": "A company (Pty Ltd / Ltd), as a form of business ownership, generally offers owners (shareholders) the advantage of ...",
+          "opts": [
+            "Unlimited personal liability for company debts",
+            "Limited liability, meaning shareholders' personal assets are generally protected if the business fails, as it is a separate legal entity",
+            "No legal registration requirements",
+            "Mandatory government ownership"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. A company is a separate legal entity, so shareholders typically only risk the amount they invested."
+        },
+        {
+          "q": "A cooperative is a form of business ownership where ...",
+          "opts": [
+            "A single individual controls all decisions and profits",
+            "Members (often farmers) jointly own and democratically control the enterprise, sharing benefits/profits according to their participation",
+            "Only the government can be a member",
+            "Profits are distributed only to outside investors"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Agricultural cooperatives allow farmers to pool resources for buying inputs, marketing produce, or accessing services more efficiently/cheaply."
+        },
+        {
+          "q": "Gross income, in farm financial terms, refers to ...",
+          "opts": [
+            "Total income minus all expenses",
+            "The total income/revenue generated from selling farm products, before any expenses are subtracted",
+            "Only the profit retained by the owner",
+            "The value of farm assets"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Gross income is the starting point before costs are deducted to determine net profit."
+        },
+        {
+          "q": "Net profit (net income) is calculated as ...",
+          "opts": [
+            "Gross income + total expenses",
+            "Gross income \u2212 total expenses (fixed and variable costs)",
+            "Total assets \u2212 total liabilities",
+            "Total expenses alone"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Net profit reflects the actual financial gain after all costs of production have been deducted from income."
+        },
+        {
+          "q": "Fixed costs in farming are costs that ...",
+          "opts": [
+            "Vary directly with the level of production",
+            "Remain relatively constant regardless of the level of production, e.g. land rent, insurance, fixed loan repayments",
+            "Are only incurred once production exceeds a certain level",
+            "Disappear if production stops entirely"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Fixed costs must be paid whether or not any product is produced/sold."
+        },
+        {
+          "q": "Variable costs in farming are costs that ...",
+          "opts": [
+            "Remain the same no matter how much is produced",
+            "Change in direct proportion to the level of production, e.g. feed, seed, fertiliser, fuel",
+            "Are paid only once a year regardless of output",
+            "Never need to be budgeted for"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Variable costs rise as production increases and fall as production decreases."
+        },
+        {
+          "q": "A break-even point in a farming enterprise is the point at which ...",
+          "opts": [
+            "Total income exceeds total costs significantly",
+            "Total income exactly equals total costs, resulting in neither a profit nor a loss",
+            "All costs are fixed",
+            "Production is zero"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Beyond the break-even point, additional sales generate profit; below it, the enterprise operates at a loss."
+        },
+        {
+          "q": "A cash flow statement/budget is a financial record that shows ...",
+          "opts": [
+            "Only the value of farm assets",
+            "The actual or projected inflows and outflows of cash over a specific period, helping a farmer plan for cash shortages",
+            "Only long-term profitability",
+            "The market price of farm produce only"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Cash flow planning helps ensure a farmer has enough cash on hand to meet expenses at the right times."
+        },
+        {
+          "q": "A balance sheet provides a summary of a farm business's ...",
+          "opts": [
+            "Income and expenses over a year only",
+            "Assets, liabilities and owner's equity (net worth) at a specific point in time",
+            "Marketing strategy",
+            "Labour productivity"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. A balance sheet shows financial position (what is owned vs owed) at a given date."
+        },
+        {
+          "q": "A farming enterprise's net worth (owner's equity) is calculated as ...",
+          "opts": [
+            "Total assets + total liabilities",
+            "Total assets \u2212 total liabilities",
+            "Gross income \u2212 variable costs",
+            "Fixed costs \u2212 variable costs"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Net worth reflects what the owner would retain after all debts (liabilities) are settled using the farm's assets."
+        },
+        {
+          "q": "Demand, in economic terms, refers to ...",
+          "opts": [
+            "The total quantity of a product available for sale",
+            "The quantity of a product that consumers are willing and able to buy at a given price, over a given period",
+            "Only the price of a product",
+            "The cost of producing a product"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Demand reflects consumer willingness/ability to purchase, which is influenced strongly by price."
+        },
+        {
+          "q": "Supply, in economic terms, refers to ...",
+          "opts": [
+            "Consumer willingness to purchase a product",
+            "The quantity of a product that producers are willing and able to sell at a given price, over a given period",
+            "The total population of consumers",
+            "Only the cost of inputs"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Supply reflects producer behaviour, which generally increases as price increases (all else being equal)."
+        },
+        {
+          "q": "According to the law of demand, as the price of a product increases (all else remaining equal), the quantity demanded generally ...",
+          "opts": [
+            "Increases",
+            "Decreases",
+            "Stays exactly the same",
+            "Becomes infinite"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Higher prices typically reduce the quantity consumers are willing/able to purchase, illustrated by a downward-sloping demand curve."
+        },
+        {
+          "q": "According to the law of supply, as the price of a product increases (all else remaining equal), the quantity supplied generally ...",
+          "opts": [
+            "Decreases",
+            "Increases, as higher prices incentivise producers to supply more",
+            "Stays exactly the same",
+            "Falls to zero"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Higher prices make production more profitable, encouraging producers to supply more, shown by an upward-sloping supply curve."
+        },
+        {
+          "q": "Market equilibrium occurs at the price where ...",
+          "opts": [
+            "Supply is much greater than demand",
+            "The quantity supplied equals the quantity demanded",
+            "Demand is much greater than supply",
+            "Price is zero"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. At equilibrium, there is no surplus or shortage, and the market price tends to stabilise at this point."
+        },
+        {
+          "q": "Direct marketing (e.g. selling produce directly to consumers at a farm stall or farmers' market) has the advantage of ...",
+          "opts": [
+            "Always requiring a middleman",
+            "Allowing the farmer to receive a larger share of the final selling price by cutting out intermediaries",
+            "Guaranteeing the lowest possible price for the farmer",
+            "Eliminating the need for any marketing effort"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Direct marketing reduces the number of intermediaries taking a margin, increasing the farmer's potential profit per unit sold."
+        },
+        {
+          "q": "Selling produce through a commodity exchange/auction system (e.g. a fresh produce market) has the advantage of ...",
+          "opts": [
+            "Guaranteed fixed prices regardless of supply and demand",
+            "Price discovery through competitive bidding, often reaching a larger pool of buyers",
+            "Eliminating the need for transport",
+            "No commission/fees being charged"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Auction-based systems allow market forces (supply and demand on the day) to determine a competitive price."
+        },
+        {
+          "q": "A cooperative marketing channel allows individual farmers to ...",
+          "opts": [
+            "Compete against each other for the same buyers",
+            "Pool their produce/resources together, gaining greater bargaining power and potentially better prices and reduced costs (e.g. shared transport)",
+            "Avoid selling any produce at all",
+            "Bypass the need for quality standards"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Cooperative marketing increases farmers' collective negotiating power compared to selling individually."
+        },
+        {
+          "q": "A SWOT analysis used in farm business planning examines a business's ...",
+          "opts": [
+            "Sales, Wages, Output and Tax",
+            "Strengths, Weaknesses, Opportunities and Threats",
+            "Supply, Wholesale price, Output and Trade",
+            "Stock, Water, Operations and Transport"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. SWOT analysis helps a farmer assess internal factors (strengths/weaknesses) and external factors (opportunities/threats) when planning strategy."
+        },
+        {
+          "q": "A business/farm plan is important mainly because it ...",
+          "opts": [
+            "Is only required when applying for government grants",
+            "Provides a structured outline of goals, strategies, resources needed and financial projections, guiding decision-making and helping secure financing",
+            "Guarantees business success automatically",
+            "Replaces the need for record keeping"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. A well-prepared business plan helps a farmer plan resource use and is often required by banks/lenders for finance applications."
+        }
+      ],
+      "practice": [
+        {
+          "subtopic": "Entrepreneurship",
+          "q": "Define the term ENTREPRENEURSHIP.",
+          "marks": 2,
+          "memo": "\u2022 The PROCESS of identifying a business opportunity, gathering resources and taking the RISK to start and manage a business in order to make a PROFIT"
+        },
+        {
+          "subtopic": "Entrepreneurship",
+          "q": "Define the term ENTREPRENEUR.",
+          "marks": 2,
+          "memo": "\u2022 A person who identifies a business opportunity and is willing to take the RISK of starting and running a business for profit"
+        },
+        {
+          "subtopic": "Entrepreneurship",
+          "q": "Distinguish between an ENTREPRENEUR and a MANAGER (give TWO differences).",
+          "marks": 4,
+          "memo": "\u2022 Entrepreneur: OWNS the business; takes financial RISK; innovative/creates new ideas\n\u2022 Manager: is EMPLOYED to run the business; does NOT take the financial risk; implements existing plans"
+        },
+        {
+          "subtopic": "Entrepreneurship",
+          "q": "List the FIVE phases of entrepreneurship in the correct order.",
+          "marks": 5,
+          "memo": "\u2022 1. Identify an opportunity\n\u2022 2. Develop a business plan\n\u2022 3. Determine resources required\n\u2022 4. Manage the business\n\u2022 5. Harvest the business (exit strategy/expansion)"
+        },
+        {
+          "subtopic": "Entrepreneurship",
+          "q": "Name FOUR characteristics of a successful agricultural entrepreneur.",
+          "marks": 4,
+          "memo": "\u2022 Self-confidence / Hard-working / Risk-taking / Innovative / Good decision-making / Persistent (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Business Planning",
+          "q": "Define the term BUSINESS PLAN.",
+          "marks": 2,
+          "memo": "\u2022 A WRITTEN DOCUMENT that describes the nature of the business, its goals/objectives and HOW the business intends to achieve those goals"
+        },
+        {
+          "subtopic": "Business Planning",
+          "q": "Give FOUR reasons why a farmer would draw up a business plan.",
+          "marks": 4,
+          "memo": "\u2022 To obtain FINANCE/loans from banks / To set clear GOALS and objectives / To attract investors or partners / To MONITOR progress against targets (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Business Planning",
+          "q": "Name FOUR problems that may be encountered when drawing up a business plan.",
+          "marks": 4,
+          "memo": "\u2022 Lack of information/research / Lack of financial/accounting skills / Unclear goals / Inability to predict future market conditions (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Business Planning",
+          "q": "Give FOUR solutions to the problems mentioned in QUESTION 2.2.3.",
+          "marks": 4,
+          "memo": "\u2022 Conduct thorough market research / Consult a financial advisor/accountant / Set SMART (clear, measurable) goals / Use realistic, conservative projections (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Business Planning",
+          "q": "Testing the FEASIBILITY of a business idea means determining whether it will succeed. List the THREE questions a farmer must ask when testing feasibility.",
+          "marks": 3,
+          "memo": "\u2022 Is there a DEMAND for the product/service?\n\u2022 Are the necessary RESOURCES (capital, labour, land) available?\n\u2022 Will the business be PROFITABLE/sustainable in the long run?"
+        },
+        {
+          "subtopic": "Financial Records",
+          "q": "Write down the FULL WORDS represented by the acronym SWOT.",
+          "marks": 4,
+          "memo": "\u2022 S = Strengths\n\u2022 W = Weaknesses\n\u2022 O = Opportunities\n\u2022 T = Threats"
+        },
+        {
+          "subtopic": "Financial Records",
+          "q": "Explain the difference between INTERNAL and EXTERNAL factors in a SWOT analysis.",
+          "marks": 4,
+          "memo": "\u2022 Internal factors (Strengths & Weaknesses): factors WITHIN the business that can be CONTROLLED by the business itself\n\u2022 External factors (Opportunities & Threats): factors OUTSIDE the business that CANNOT be controlled by the business"
+        },
+        {
+          "subtopic": "Financial Records",
+          "q": "A farmer is considering starting a poultry enterprise. Conduct a SWOT analysis by giving TWO examples for EACH of the four components. **(a)** Strengths",
+          "marks": 2,
+          "memo": "\u2022 Good location near markets / Skilled labour available / High demand for chicken meat/eggs  *Weaknesses (any 2):*\n\u2022 Limited capital/finance / Lack of experience / Outdated equipment  *Opportunities (any 2):*\n\u2022 Growing market for organic/free-range products / Government support programmes for new farmers  *Threats (any 2):*\n\u2022 Disease outbreaks (e.g. Newcastle disease, Avian flu) / Rising feed costs / Increased competition from established producers"
+        },
+        {
+          "subtopic": "Marketing Channels",
+          "q": "Define MARKETING.",
+          "marks": 2,
+          "memo": "\u2022 Marketing is the PROCESS of moving a product/service from the PRODUCER (farm) to the CONSUMER, including all activities involved in identifying, anticipating and satisfying consumer needs profitably"
+        },
+        {
+          "subtopic": "Marketing Channels",
+          "q": "Name and briefly describe the FOUR marketing policy instruments (4Ps).",
+          "marks": 8,
+          "memo": "\u2022 Product: deciding WHAT to produce --- quality, packaging, branding to meet consumer needs\n\u2022 Price: deciding WHAT PRICE to charge --- considering production costs, competitor prices and consumer affordability\n\u2022 Place (Placement): deciding HOW/WHERE the product will reach the consumer --- distribution channels, location\n\u2022 Promotion: deciding HOW to communicate with and CONVINCE consumers to buy --- advertising, sales promotions, branding"
+        },
+        {
+          "subtopic": "Pricing & Demand",
+          "q": "State the LAW OF DEMAND and the LAW OF SUPPLY.",
+          "marks": 4,
+          "memo": "\u2022 Law of Demand: as the PRICE of a product INCREASES, the QUANTITY DEMANDED DECREASES (and vice versa), all other factors remaining constant --- an INVERSE relationship\n\u2022 Law of Supply: as the PRICE of a product INCREASES, the QUANTITY SUPPLIED also INCREASES (and vice versa), all other factors remaining constant --- a DIRECT relationship"
+        },
+        {
+          "subtopic": "Pricing & Demand",
+          "q": "Define MARKET EQUILIBRIUM.",
+          "marks": 2,
+          "memo": "\u2022 Market equilibrium: the point where the QUANTITY DEMANDED equals the QUANTITY SUPPLIED at a given price --- the market is in BALANCE with no shortage or surplus"
+        },
+        {
+          "subtopic": "Pricing & Demand",
+          "q": "Study the following demand and supply schedule: ----------------------- ----------------------- ----------------------- **PRICE (R/box)** **QUANTITY DEMANDED** **QUANTITY SUPPLIED** 5 2 000 12 000 4 4 000 10 000 3 7 000 7 000 2 11 000 4 000 1 16 000 1 000 ----------------------- ----------------------- ----------------------- **(a)** Identify the equilibrium price and equilibrium quantity.",
+          "marks": 2,
+          "memo": "\u2022 (a) Equilibrium price = R3/box; Equilibrium quantity = 7 000 boxes (where quantity demanded = quantity supplied)\n\u2022 (b) At R5/box, quantity supplied (12 000)  quantity demanded (2 000), causing an OVERSUPPLY/SURPLUS --- prices would fall back toward equilibrium as producers compete to sell excess stock"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Distinguish between a FLOOR PRICE and a CEILING PRICE, including the reason government sets each.",
+          "marks": 4,
+          "memo": "\u2022 Floor price: a MINIMUM price set by the government ABOVE the equilibrium price, to ensure farmers receive a fair/reasonable income and are protected from prices falling too low\n\u2022 Ceiling price: a MAXIMUM price set by the government BELOW the equilibrium price, to protect CONSUMERS from prices that are too high (e.g. for basic foodstuffs)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Name THREE free marketing channels and briefly describe EACH.",
+          "marks": 6,
+          "memo": "\u2022 Farm-gate marketing: the farmer sells products DIRECTLY to consumers at the farm, cutting out middlemen\n\u2022 Fresh produce market: farmers transport products to a central market where they are sold to the highest bidder/wholesalers\n\u2022 Stock auction: livestock are sold to the HIGHEST BIDDER at an organised auction"
+        },
+        {
+          "subtopic": "Business ownership",
+          "q": "Compare a sole proprietorship and a company (Pty Ltd) in terms of liability of the owner(s).",
+          "marks": 4,
+          "memo": "\u2022 Sole proprietorship: the owner has UNLIMITED liability \u2014 personal assets can be used to pay off business debts \u2713\u2713\n\u2022 Company (Pty Ltd): shareholders have LIMITED liability \u2014 they are generally only liable up to the amount they invested, as the company is a separate legal entity \u2713\u2713"
+        },
+        {
+          "subtopic": "Financial management",
+          "q": "Distinguish between fixed costs and variable costs in a farming enterprise, giving ONE example of each.",
+          "marks": 4,
+          "memo": "\u2022 Fixed costs: remain constant regardless of production level, e.g. land rent/insurance \u2713\u2713\n\u2022 Variable costs: change in proportion to production level, e.g. feed or fertiliser cost \u2713\u2713"
+        },
+        {
+          "subtopic": "Financial management",
+          "q": "A farmer has a gross income of R450 000 and total expenses (fixed + variable costs) of R310 000 for the year. Calculate the farmer's net profit.",
+          "marks": 3,
+          "memo": "\u2022 Net profit = Gross income \u2212 Total expenses \u2713\n\u2022 = R450 000 \u2212 R310 000 \u2713\n\u2022 = R140 000 \u2713"
+        },
+        {
+          "subtopic": "Marketing",
+          "q": "Explain the relationship between price and quantity demanded, according to the law of demand.",
+          "marks": 3,
+          "memo": "\u2022 As price increases, quantity demanded generally decreases (and vice versa), all else being equal \u2713\u2713\n\u2022 This is because consumers are less willing/able to purchase a product at a higher price, and may switch to substitute products \u2713"
+        },
+        {
+          "subtopic": "Marketing channels",
+          "q": "Discuss TWO advantages of direct marketing for a farmer compared to selling through a middleman.",
+          "marks": 4,
+          "memo": "\u2022 The farmer receives a larger share/percentage of the final selling price, since no middleman commission is deducted \u2713\u2713\n\u2022 The farmer can build direct relationships with consumers and receive immediate feedback on product quality/preferences \u2713\u2713 (any 2 valid advantages)"
+        }
+      ]
+    },
+    "production-factors": {
+      "mcq": [
+        {
+          "q": "Which of the following is a characteristic of LAND as a production factor?",
+          "opts": [
+            "It is mobile and can be relocated",
+            "It depreciates in value over time",
+            "Its value appreciates over time",
+            "It is unlimited in availability"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Its value appreciates over time"
+        },
+        {
+          "q": "The law stating that increased amounts of an input do NOT give proportional increases in output is the ...",
+          "opts": [
+            "Law of supply",
+            "Law of demand",
+            "Law of diminishing return",
+            "Law of independent assortment"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Law of diminishing return"
+        },
+        {
+          "q": "Labour employed for specific duties during a particular period of the year (e.g. harvest time) is called ...",
+          "opts": [
+            "Permanent labour",
+            "Casual labour",
+            "Skilled labour",
+            "Seasonal labour"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Seasonal labour"
+        },
+        {
+          "q": "Capital invested in short-term assets used to pay operational expenses (seeds, fertilizer, fuel, wages) is called ...",
+          "opts": [
+            "Fixed capital",
+            "Working/floating capital",
+            "Medium-term capital",
+            "Long-term capital"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Working/floating capital"
+        },
+        {
+          "q": "The Act regulating working hours, overtime, minimum wages, leave and termination conditions is the ...",
+          "opts": [
+            "Labour Relations Act",
+            "Occupational Health and Safety Act",
+            "Basic Conditions of Employment Act",
+            "Skills Development Act"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Basic Conditions of Employment Act"
+        },
+        {
+          "q": "WORTH of a farming business is a ...",
+          "opts": [
+            "Cash flow statement",
+            "Income statement",
+            "Balance sheet",
+            "Budget"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Balance sheet"
+        },
+        {
+          "q": "The Act ensuring workers are trained on machinery, supplied protective clothing and a safe working environment is the ...",
+          "opts": [
+            "Basic Conditions of Employment Act",
+            "Labour Relations Act",
+            "Skills Development Act",
+            "Occupational Health and Safety Act"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Occupational Health and Safety Act"
+        },
+        {
+          "q": "one document is called a ...",
+          "opts": [
+            "Partial budget",
+            "Enterprise budget",
+            "Whole farm budget",
+            "Cash flow budget"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Whole farm budget"
+        },
+        {
+          "q": "The management function involving measuring and verifying results against planned objectives is ...",
+          "opts": [
+            "Planning",
+            "Implementation",
+            "Control",
+            "Coordination"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Control"
+        },
+        {
+          "q": "Credit used to expand FIXED ASSETS (buildings, land, dams) with a repayment period of OVER 10 years is ...",
+          "opts": [
+            "Short-term credit",
+            "Medium-term credit",
+            "Working capital credit",
+            "Long-term credit"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Long-term credit"
+        },
+        {
+          "q": "How is net profit (net income) calculated?",
+          "opts": [
+            "Total income + Total expenditure",
+            "Total income \u2212 Total expenditure",
+            "Total assets \u2212 Total liabilities",
+            "Total liabilities \u2212 Total assets"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Total income \u2212 Total expenditure"
+        },
+        {
+          "q": "Medium-term capital is typically used to purchase ...",
+          "opts": [
+            "Land",
+            "Seeds and fertilizer",
+            "Tractors and breeding livestock",
+            "Wages and fuel"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Tractors and breeding livestock"
+        },
+        {
+          "q": "Which of the following is an example of UNSKILLED labour on a farm?",
+          "opts": [
+            "Farm manager",
+            "Veterinarian",
+            "Tractor driver",
+            "General hand/weeder"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. General hand/weeder"
+        },
+        {
+          "q": "The NET WORTH of a business is calculated as ...",
+          "opts": [
+            "Total income \u2212 Total expenditure",
+            "Total assets \u2212 Total liabilities",
+            "Fixed capital + Working capital",
+            "Total assets + Total liabilities"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Total assets \u2212 Total liabilities"
+        },
+        {
+          "q": "Strategic management in farming primarily involves ...",
+          "opts": [
+            "Daily routine tasks only",
+            "Long-term planning to achieve farm goals and respond to changes",
+            "Hiring and firing of staff only",
+            "Calculating only the cash flow"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Long-term planning to achieve farm goals and respond to changes"
+        },
+        {
+          "q": "The FOUR main factors of production in agriculture are generally identified as ...",
+          "opts": [
+            "Land, Labour, Capital and Entrepreneurship/Management",
+            "Soil, Water, Sun and Air only",
+            "Tractors, Seeds, Fertiliser and Pesticides",
+            "Crops, Livestock, Buildings and Fences"
+          ],
+          "ans": 0,
+          "exp": "Correct answer: A. These four broad categories of resources are combined to produce agricultural goods and services."
+        },
+        {
+          "q": "Land, as a factor of production, refers to ...",
+          "opts": [
+            "Only the soil used for crop production",
+            "All natural resources used in production, including soil, water, minerals and climate",
+            "Money invested in a farm",
+            "The farm workforce"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Land as a factor of production is a broad term covering all natural resources, not just the physical ground."
+        },
+        {
+          "q": "Capital, as a factor of production, refers to ...",
+          "opts": [
+            "Only physical cash held by the farmer",
+            "Man-made resources used in production, such as machinery, buildings, tools and money invested in the business",
+            "The farm workers themselves",
+            "Natural rainfall"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Capital includes both fixed capital (e.g. tractors, buildings) and working/operating capital (cash for running expenses)."
+        },
+        {
+          "q": "Fixed capital differs from working (operating) capital in that fixed capital ...",
+          "opts": [
+            "Is used up/consumed within one production cycle",
+            "Consists of durable assets used repeatedly over several production cycles, e.g. machinery, buildings, fencing",
+            "Refers only to cash reserves",
+            "Has no value to the business"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Fixed capital items have a long working life, while working capital (e.g. cash for seed, feed) is used up each season/cycle."
+        },
+        {
+          "q": "Labour, as a factor of production, includes ...",
+          "opts": [
+            "Only unskilled manual workers",
+            "All human effort (physical and mental) contributed to the production process, both skilled and unskilled",
+            "Only machinery operators",
+            "Capital investment"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Labour covers the full range of human input, from manual farm work to skilled management decisions."
+        },
+        {
+          "q": "Entrepreneurship/management, as a factor of production, refers to the ability to ...",
+          "opts": [
+            "Provide physical labour only",
+            "Organise and combine the other factors of production (land, labour, capital), take risks, and make decisions to run a profitable enterprise",
+            "Own land exclusively",
+            "Avoid all financial risk"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. The entrepreneur/manager coordinates resources and bears the risk of the business, aiming to generate a profit."
+        },
+        {
+          "q": "Productivity of land can be improved through practices such as ...",
+          "opts": [
+            "Continuous monoculture without crop rotation",
+            "Soil conservation, crop rotation, and appropriate fertilisation/irrigation",
+            "Overgrazing",
+            "Ignoring soil testing"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Sustainable management practices maintain or improve soil fertility and productive capacity over the long term."
+        },
+        {
+          "q": "Labour productivity can be improved through ...",
+          "opts": [
+            "Providing no training to workers",
+            "Appropriate training, fair remuneration, motivation, and the use of suitable mechanisation/equipment",
+            "Reducing wages below minimum standards",
+            "Avoiding all worker supervision"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Well-trained, motivated and properly equipped workers tend to be significantly more productive."
+        },
+        {
+          "q": "Mechanisation (the use of machinery) on a farm primarily aims to ...",
+          "opts": [
+            "Increase the amount of manual labour required",
+            "Increase labour efficiency/productivity and reduce the time and physical effort needed to complete farming tasks",
+            "Reduce capital investment requirements",
+            "Replace the need for any management"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Mechanisation substitutes capital (machinery) for labour, often increasing the scale and efficiency of operations."
+        },
+        {
+          "q": "Diminishing returns, in agricultural production, refers to the principle that ...",
+          "opts": [
+            "Increasing one input indefinitely always results in proportionally increasing output",
+            "Beyond a certain point, adding more of one input (e.g. fertiliser) while keeping other inputs constant results in progressively smaller increases in output",
+            "Output always decreases immediately with any input increase",
+            "Inputs and outputs have no relationship"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. This economic principle explains why there is an optimal input level beyond which extra input becomes less cost-effective."
+        },
+        {
+          "q": "Sustainable use of land as a production factor means ...",
+          "opts": [
+            "Maximising short-term output regardless of long-term consequences",
+            "Using natural resources in a way that meets current production needs without compromising the land's productive capacity for future generations",
+            "Avoiding the use of any fertiliser or technology",
+            "Selling the land immediately"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Sustainable land use balances current productivity with the conservation of soil, water and other resources for the future."
+        },
+        {
+          "q": "A shortage of skilled agricultural labour in a region can be addressed through ...",
+          "opts": [
+            "Reducing all training programmes",
+            "Investment in training/education programmes, fair wages to attract and retain workers, and appropriate use of mechanisation",
+            "Ignoring the problem",
+            "Reducing farm output to zero"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. A combination of training, incentives and technology can help overcome skilled labour shortages."
+        }
+      ],
+      "practice": [
+        {
+          "subtopic": "Land & Capital",
+          "q": "Define LAND as a production factor in agriculture.",
+          "marks": 2,
+          "memo": "\u2022 Land is a NATURAL production factor that provides the SPACE and natural resources (soil, water, minerals) needed for agricultural production"
+        },
+        {
+          "subtopic": "Land & Capital",
+          "q": "Name the FOUR production factors in agriculture.",
+          "marks": 4,
+          "memo": "\u2022 Land, Labour, Capital, Management (Entrepreneurship)"
+        },
+        {
+          "subtopic": "Land & Capital",
+          "q": "Give FIVE economic characteristics of land that distinguish it from other production factors.",
+          "marks": 5,
+          "memo": "\u2022 Immobile (cannot be moved) / APPRECIATES in value over time / Limited in supply (fixed quantity) / Indestructible (cannot be destroyed, only degraded) / Heterogeneous (varies in quality/fertility) (any 5 \u00d7 1)"
+        },
+        {
+          "subtopic": "Land & Capital",
+          "q": "State the LAW OF DIMINISHING RETURNS and explain its relevance to crop production.",
+          "marks": 4,
+          "memo": "\u2022 Statement: as MORE units of a variable input (e.g. fertilizer) are added to a FIXED resource (land), the additional output (marginal return) EVENTUALLY DECREASES\n\u2022 Relevance: helps a farmer determine the OPTIMUM level of fertilizer/input to apply for maximum profit without wasting resources on inputs beyond the point of diminishing returns"
+        },
+        {
+          "subtopic": "Labour",
+          "q": "Define LABOUR as a production factor.",
+          "marks": 2,
+          "memo": "\u2022 Labour is the HUMAN EFFORT (physical and mental) applied to production in order to generate income"
+        },
+        {
+          "subtopic": "Labour",
+          "q": "Distinguish between SKILLED, SEMI-SKILLED and UNSKILLED labour, giving ONE example of each.",
+          "marks": 6,
+          "memo": "\u2022 Skilled labour: workers with FORMAL TRAINING/qualifications, e.g. a veterinarian or farm manager\n\u2022 Semi-skilled labour: workers with SOME training/experience, e.g. a tractor driver\n\u2022 Unskilled labour: workers with NO formal training, performing manual tasks, e.g. a general farm hand/weeder"
+        },
+        {
+          "subtopic": "Labour",
+          "q": "Classify and describe: PERMANENT, CASUAL and SEASONAL labour.",
+          "marks": 6,
+          "memo": "\u2022 Permanent labour: employed on a LONG-TERM/full-time basis with a fixed monthly wage and benefits\n\u2022 Casual labour: employed for SHORT, irregular periods, often paid daily\n\u2022 Seasonal labour: employed for SPECIFIC periods of the year (e.g. harvest season)"
+        },
+        {
+          "subtopic": "Labour",
+          "q": "Name FOUR problems related to labour in agricultural production.",
+          "marks": 4,
+          "memo": "\u2022 High labour turnover / Strikes and labour disputes / Shortage of skilled labour / Rising minimum wage costs (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Labour",
+          "q": "Match each labour legislation Act to what it regulates/ensures: ---------------------------- ------------------------------------------ **ACT** **WHAT IT REGULATES/ENSURES** Basic Conditions of Employment Act Labour Relations Act Occupational Health and Safety Act Skills Development Act ---------------------------- ------------------------------------------",
+          "marks": 8,
+          "memo": "\u2022 Basic Conditions of Employment Act: regulates working hours, overtime, leave, minimum wages and termination conditions\n\u2022 Labour Relations Act: governs the relationship between employer and employee, including dispute resolution, unions and strikes\n\u2022 Occupational Health and Safety Act: ensures a SAFE working environment, training on machinery and provision of protective clothing\n\u2022 Skills Development Act: promotes TRAINING and skills development of workers"
+        },
+        {
+          "subtopic": "Management",
+          "q": "Define CAPITAL as a production factor.",
+          "marks": 2,
+          "memo": "\u2022 Capital refers to all the FINANCIAL RESOURCES and ASSETS (money, machinery, buildings, livestock) used in the production process"
+        },
+        {
+          "subtopic": "Management",
+          "q": "Distinguish between FIXED, MEDIUM-TERM and WORKING (floating) capital. Give an example and repayment period for each.",
+          "marks": 9,
+          "memo": "\u2022 Fixed capital: long-term assets, e.g. land, buildings, dams; repayment period OVER 10 years\n\u2022 Medium-term capital: assets such as tractors, implements, breeding livestock; repayment period 2--10 years\n\u2022 Working/floating capital: short-term operational expenses, e.g. seeds, fertilizer, wages, fuel; repayment period UNDER 2 years/1 production cycle"
+        },
+        {
+          "subtopic": "Management",
+          "q": "Distinguish between a GRANT and CREDIT as sources of finance.",
+          "marks": 4,
+          "memo": "\u2022 Grant: money given to a farmer that does NOT need to be repaid\n\u2022 Credit: money BORROWED from a financial institution that MUST be repaid with interest"
+        },
+        {
+          "subtopic": "Management",
+          "q": "Name THREE types of credit available to farmers, and give an example of what each is used for.",
+          "marks": 6,
+          "memo": "\u2022 Short-term credit: used for operational expenses such as seeds and fertilizer, repaid within 1 year\n\u2022 Medium-term credit: used to purchase equipment/breeding stock, repaid over 2--10 years\n\u2022 Long-term credit: used to purchase land or build infrastructure, repaid over more than 10 years"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Give FOUR reasons why a farmer should keep financial records.",
+          "marks": 4,
+          "memo": "\u2022 To calculate profit/loss / To apply for loans (proof of income) / To make informed management decisions / For tax purposes (any 4 \u00d7 1)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Distinguish between a BALANCE SHEET and an INCOME STATEMENT.",
+          "marks": 4,
+          "memo": "\u2022 Balance sheet: shows the financial POSITION of a business at a SPECIFIC POINT in time (assets, liabilities, net worth)\n\u2022 Income statement: shows the financial PERFORMANCE of a business over a PERIOD of time (income, expenditure, profit/loss)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Study the following income statement and answer the questions: -------------------------------------- -------------------------------- **INCOME** **AMOUNT (R)** Maize sales 320 000 Soya sales 95 000 TOTAL INCOME 415 000 EXPENDITURE AMOUNT (R) Seeds 48 000 Fertilizer & chemicals 76 000 Wages 88 000 Fuel & maintenance 52 000 TOTAL EXPENDITURE 264 000 -------------------------------------- -------------------------------- **(a)** Calculate the NET PROFIT for this farming business. Show the formula used.",
+          "marks": 3,
+          "memo": "\u2022 Net Profit = Total Income \u2212 Total Expenditure = R415 000 \u2212 R264 000 = R151 000\n\u2022 If expenditure was R430 000: Total Expenditure (R430 000)  Total Income (R415 000) \u2192 this results in a NET LOSS of R15 000, meaning the business spent more than it earned"
+        },
+        {
+          "subtopic": "Factors of production",
+          "q": "Name the FOUR main factors of production and give ONE agricultural example of each.",
+          "marks": 8,
+          "memo": "\u2022 Land \u2014 e.g. soil/grazing land used for crop or livestock production \u2713\u2713\n\u2022 Labour \u2014 e.g. farm workers who plant, harvest or care for livestock \u2713\u2713\n\u2022 Capital \u2014 e.g. a tractor, irrigation system or farm buildings \u2713\u2713\n\u2022 Entrepreneurship/Management \u2014 e.g. the farmer/manager who plans and makes decisions, taking financial risk \u2713\u2713"
+        },
+        {
+          "subtopic": "Capital",
+          "q": "Distinguish between fixed capital and working (operating) capital, giving an example of each.",
+          "marks": 4,
+          "memo": "\u2022 Fixed capital: durable assets used repeatedly over several years/production cycles, e.g. tractors, farm buildings, fencing \u2713\u2713\n\u2022 Working capital: funds used up within a single production cycle for day-to-day expenses, e.g. money spent on seed, fertiliser, feed or fuel \u2713\u2713"
+        },
+        {
+          "subtopic": "Labour productivity",
+          "q": "Discuss THREE ways a farmer can improve the productivity of farm labour.",
+          "marks": 6,
+          "memo": "\u2022 Provide appropriate training/skills development to workers \u2713\u2713\n\u2022 Ensure fair remuneration and good working conditions to motivate workers \u2713\u2713\n\u2022 Provide suitable tools/machinery (mechanisation) to make tasks more efficient \u2713\u2713 (any 3 valid points)"
+        },
+        {
+          "subtopic": "Diminishing returns",
+          "q": "Explain the principle of diminishing returns, using fertiliser application as an example.",
+          "marks": 4,
+          "memo": "\u2022 As increasing amounts of fertiliser are applied to a fixed area of land (with other inputs unchanged), crop yield initially increases \u2713\u2713\n\u2022 However, beyond an optimal point, each additional unit of fertiliser produces progressively smaller increases in yield \u2713\n\u2022 Eventually, additional fertiliser may even decrease yield (over-fertilisation), making further application uneconomical \u2713"
+        }
+      ]
+    },
+    "basic-genetics": {
+      "mcq": [
+        {
+          "q": "The scientist regarded as the father of genetics, who conducted experiments on pea plants, is ...",
+          "opts": [
+            "Charles Darwin",
+            "Gregor Mendel",
+            "Robert Hooke",
+            "Louis Pasteur"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Gregor Mendel"
+        },
+        {
+          "q": "An organism with TWO DIFFERENT alleles for a trait (e.g. Bb) is described as ...",
+          "opts": [
+            "Homozygous dominant",
+            "Homozygous recessive",
+            "Heterozygous",
+            "Purebred"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Heterozygous"
+        },
+        {
+          "q": "WHITE cow (bb). The genotype of ALL F1 offspring will be ...",
+          "opts": [
+            "BB",
+            "bb",
+            "Bb",
+            "50% BB, 50% bb"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Bb"
+        },
+        {
+          "q": "flower producing offspring that are ALL PINK shows ...",
+          "opts": [
+            "Complete dominance",
+            "Co-dominance",
+            "Incomplete dominance",
+            "Epistasis"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Incomplete dominance"
+        },
+        {
+          "q": "cow that produces ROAN offspring shows ...",
+          "opts": [
+            "Incomplete dominance",
+            "Co-dominance",
+            "Complete dominance",
+            "Polygenic inheritance"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Co-dominance"
+        },
+        {
+          "q": "Characteristics such as MILK YIELD, GROWTH RATE and EGG PRODUCTION, controlled by MANY genes and showing a continuous range of phenotypes, are described as ...",
+          "opts": [
+            "Qualitative",
+            "Monogenic",
+            "Discontinuous",
+            "Quantitative (polygenic)"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Quantitative (polygenic)"
+        },
+        {
+          "q": "The LAW OF SEGREGATION states that ... each parent",
+          "opts": [
+            "One gene is always dominant in a heterozygous combination",
+            "Alleles separate during meiosis so offspring receive one allele from",
+            "Genes for different traits assort independently",
+            "A recessive allele is only expressed when masked"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Alleles separate during meiosis so offspring receive one allele from"
+        },
+        {
+          "q": "Which of the following terms refers to a random, heritable change in an organism's DNA that introduces new genetic variation?",
+          "opts": [
+            "Variation",
+            "Selection",
+            "Mutation",
+            "Crossing over"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Mutation"
+        },
+        {
+          "q": "The Estimated Breeding Value (EBV) formula is ...",
+          "opts": [
+            "EBV = Average weight \u00d7 Heritability %",
+            "EBV = (Individual weight \u2212 Average weight) \u00d7 Heritability %",
+            "EBV = (Individual weight + Average weight) \u00d7 Heritability %",
+            "EBV = Individual weight \u00f7 Heritability %"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. EBV = (Individual weight \u2212 Average weight) \u00d7 Heritability %"
+        },
+        {
+          "q": "Breeding of CLOSELY RELATED individuals (e.g. brother \u00d7 sister) is called ...",
+          "opts": [
+            "Crossbreeding",
+            "Upgrading",
+            "Line breeding",
+            "Inbreeding"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Inbreeding"
+        },
+        {
+          "q": "Hybrid vigour (heterosis) results from which breeding system?",
+          "opts": [
+            "Inbreeding",
+            "Crossbreeding",
+            "Line breeding",
+            "Upgrading"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Crossbreeding"
+        },
+        {
+          "q": "The process of inserting genes from one organism into the DNA of another to change its characteristics is called ...",
+          "opts": [
+            "Selective breeding",
+            "Gene mutation",
+            "Genetic modification/engineering",
+            "Polygenic inheritance"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Genetic modification/engineering"
+        },
+        {
+          "q": "Milk production in dairy cows is controlled by two gene pairs. Genotype aabbcc gives 200 litres; each additive dominant gene adds 20 litres. The milk yield for genotype AAbbcc is ...",
+          "opts": [
+            "200 litres",
+            "220 litres",
+            "240 litres",
+            "260 litres"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. 240 litres"
+        },
+        {
+          "q": "If a particular trait in livestock has a heritability estimate of 70%, what does this mean?",
+          "opts": [
+            "30% is determined genetically",
+            "70% is determined by environmental factors",
+            "70% is determined genetically --- a high chance of being passed on",
+            "30% chance it will be passed on"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. 70% is determined genetically --- a high chance of being passed on"
+        },
+        {
+          "q": "Identifying an animal for breeding based on the performance of its PARENTS AND GRANDPARENTS is called ...",
+          "opts": [
+            "Individual selection",
+            "Sib selection",
+            "Progeny testing",
+            "Pedigree selection"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. Pedigree selection"
+        },
+        {
+          "q": "of his OFFSPRING is then evaluated. This is called ...",
+          "opts": [
+            "Sib selection",
+            "Progeny testing",
+            "Individual selection",
+            "Pedigree selection"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Progeny testing"
+        },
+        {
+          "q": "The reappearance of a characteristic that skipped a generation is called ...",
+          "opts": [
+            "Prepotency",
+            "Epistasis",
+            "Atavism (throwback)",
+            "Heterosis"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Atavism (throwback)"
+        },
+        {
+          "q": "rather than the cow is said to show ...",
+          "opts": [
+            "Atavism",
+            "Prepotency",
+            "Epistasis",
+            "Hybrid vigour"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Prepotency"
+        },
+        {
+          "q": "DELETION, INSERTION, SUBSTITUTION and INVERSION are all types of ...",
+          "opts": [
+            "Variation",
+            "Gene mutation",
+            "Selection methods",
+            "Breeding systems"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Gene mutation"
+        },
+        {
+          "q": "When farmers continually mate GRADE animals to a PUREBRED sire over several generations to improve genetic quality, this is called ...",
+          "opts": [
+            "Crossbreeding",
+            "Inbreeding",
+            "Upgrading",
+            "Line breeding"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Upgrading"
+        },
+        {
+          "q": "Mass selection in animal breeding involves ...",
+          "opts": [
+            "Selecting breeding animals based solely on their pedigree records",
+            "Selecting breeding animals based on their own observable individual performance/phenotype (e.g. growth rate, milk yield)",
+            "Random mating with no selection criteria",
+            "Selecting only based on the performance of offspring"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Mass selection is simple and relatively fast but does not account for genotype hidden by environmental effects."
+        },
+        {
+          "q": "Progeny testing in animal breeding involves ...",
+          "opts": [
+            "Selecting an animal based only on its own performance",
+            "Evaluating a potential breeding animal (especially males) based on the average performance of its offspring",
+            "Avoiding any form of selection",
+            "Testing only for disease resistance"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Progeny testing gives a more reliable indication of an animal's true breeding value, especially for traits like milk yield that males cannot express themselves."
+        },
+        {
+          "q": "A breeding value (estimated breeding value, EBV) refers to ...",
+          "opts": [
+            "The market price of an animal",
+            "An estimate of an animal's genetic merit for a particular trait, used to predict the performance of its future offspring",
+            "The animal's exact age",
+            "A measure of an animal's current body weight only"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. EBVs help farmers select breeding stock likely to pass on desirable genetic traits to their offspring."
+        },
+        {
+          "q": "Genetic improvement of a livestock herd over generations is achieved mainly through ...",
+          "opts": [
+            "Random mating with no selection",
+            "Consistent selective breeding, choosing animals with the most desirable genotypes/phenotypes as parents of the next generation",
+            "Avoiding the use of any breeding records",
+            "Reducing herd size to zero"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Genetic improvement programmes rely on accurately identifying and breeding from animals with superior genetic merit."
+        },
+        {
+          "q": "Culling, in the context of a livestock breeding programme, refers to ...",
+          "opts": [
+            "Selecting the best animals to keep for breeding",
+            "Removing animals with undesirable traits (e.g. poor production, genetic defects, poor fertility) from the breeding herd",
+            "Vaccinating all animals",
+            "Increasing herd numbers rapidly"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Culling poor-performing or defective animals helps improve the overall genetic quality of the remaining herd."
+        },
+        {
+          "q": "In Hereford cattle, the polled (hornless) condition (P) is dominant over the horned condition (p). A heterozygous polled bull (Pp) is mated with a horned cow (pp). What proportion of the offspring is expected to be horned?",
+          "opts": [
+            "0%",
+            "25%",
+            "50%",
+            "100%"
+          ],
+          "ans": 2,
+          "exp": "Correct answer: C. Pp \u00d7 pp \u2192 1 Pp (polled) : 1 pp (horned), giving a 50% chance of horned offspring."
+        },
+        {
+          "q": "In a particular sheep breed, white wool (W) is dominant over black wool (w). Two heterozygous (Ww) sheep are mated. What proportion of the offspring is expected to have black wool?",
+          "opts": [
+            "0%",
+            "25%",
+            "50%",
+            "75%"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Ww \u00d7 Ww \u2192 1 WW : 2 Ww : 1 ww, giving a 25% (1 in 4) chance of black wool (ww) offspring."
+        },
+        {
+          "q": "If a homozygous dominant polled bull (PP) is mated with a homozygous recessive horned cow (pp), what proportion of the F1 offspring will be horned?",
+          "opts": [
+            "100%",
+            "50%",
+            "25%",
+            "0% \u2014 all offspring will be polled (heterozygous, Pp)"
+          ],
+          "ans": 3,
+          "exp": "Correct answer: D. PP \u00d7 pp can only produce Pp offspring, which are all polled (since polled is dominant), despite all carrying the recessive allele."
+        },
+        {
+          "q": "A Punnett square is a tool used in genetics to ...",
+          "opts": [
+            "Calculate the market value of livestock",
+            "Predict the probable genotype and phenotype ratios of offspring from a particular genetic cross",
+            "Measure body weight",
+            "Record vaccination history"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Punnett squares systematically combine possible gametes from each parent to show all possible offspring genotype combinations."
+        },
+        {
+          "q": "In livestock breeding, a 'carrier' animal for a recessive genetic defect refers to an animal that is ...",
+          "opts": [
+            "Homozygous dominant, showing no defect and unable to pass the allele on",
+            "Heterozygous, not showing the defect itself but capable of passing the recessive allele to its offspring",
+            "Homozygous recessive, showing the full defect",
+            "Completely free of the allele"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Carriers are a hidden risk in breeding programmes since they can produce affected offspring if mated with another carrier."
+        },
+        {
+          "q": "Why is it important for a livestock breeder to identify and manage carrier animals for known recessive genetic defects?",
+          "opts": [
+            "Carriers always show the defect themselves, making them easy to identify visually",
+            "Carriers appear normal but can pass the harmful recessive allele to offspring; if two carriers are mated, some offspring may be affected by the defect",
+            "Carrier animals cannot reproduce",
+            "Carrier status has no impact on breeding decisions"
+          ],
+          "ans": 1,
+          "exp": "Correct answer: B. Without genetic testing or pedigree analysis, carriers cannot be identified by appearance alone, making them a hidden breeding risk."
+        }
+      ],
+      "practice": [
+        {
+          "subtopic": "Mendelian Genetics",
+          "q": "Define each of the following terms: **(a)** Genotype",
+          "marks": 1,
+          "memo": "\u2022 Genotype: the GENETIC make-up of an organism (allele combination), e.g. Bb\n\u2022 Phenotype: the PHYSICAL/observable appearance of an organism resulting from its genotype, e.g. black coat colour\n\u2022 Homozygous: an organism with TWO IDENTICAL alleles for a trait, e.g. BB or bb\n\u2022 Heterozygous: an organism with TWO DIFFERENT alleles for a trait, e.g. Bb\n\u2022 Dominant allele: an allele that MASKS the effect of another allele when present (represented with a capital letter)\n\u2022 Recessive allele: an allele whose effect is MASKED by a dominant allele; only expressed when in homozygous form (lowercase letter)"
+        },
+        {
+          "subtopic": "Mendelian Genetics",
+          "q": "State Mendel's LAW OF DOMINANCE and LAW OF SEGREGATION.",
+          "marks": 4,
+          "memo": "\u2022 Law of Dominance: when two different alleles for a trait are present, the DOMINANT allele will mask/hide the effect of the recessive allele in the phenotype\n\u2022 Law of Segregation: during the formation of gametes (meiosis), the two alleles for a trait SEPARATE so that each gamete receives only ONE allele; offspring inherit one allele from EACH parent"
+        },
+        {
+          "subtopic": "Inheritance Patterns",
+          "q": "Define MONOHYBRID CROSSING.",
+          "marks": 2,
+          "memo": "\u2022 A genetic cross that studies the inheritance of ONE characteristic/trait controlled by ONE gene pair"
+        },
+        {
+          "subtopic": "Inheritance Patterns",
+          "q": "A homozygous BLACK bull (BB) is crossed with a homozygous WHITE cow (bb). Use a Punnett square to determine the GENOTYPE and PHENOTYPE of the F1 offspring.",
+          "marks": 6,
+          "memo": "\u2022 Genotype of F1: ALL Bb (heterozygous) --- 2 marks\n\u2022 Phenotype of F1: ALL BLACK (since B is dominant) --- 2 marks\n\u2022 Correct Punnett square layout with gametes B and b correctly crossed --- 2 marks"
+        },
+        {
+          "subtopic": "Inheritance Patterns",
+          "q": "The F1 offspring from 4.2.2 are crossed with each other (Bb \u00d7 Bb). Use a Punnett square to determine the genotypic AND phenotypic ratios of the F2 offspring.",
+          "marks": 6,
+          "memo": "\u2022 Genotypic ratio: 1 BB : 2 Bb : 1 bb\n\u2022 Phenotypic ratio: 3 BLACK : 1 WHITE\n\u2022 Correctly completed Punnett square showing all 4 combinations"
+        },
+        {
+          "subtopic": "Punnett Squares",
+          "q": "Distinguish between COMPLETE DOMINANCE, INCOMPLETE DOMINANCE and CO-DOMINANCE. Give ONE livestock example of each.",
+          "marks": 9,
+          "memo": "\u2022 Complete dominance: ONE allele completely MASKS the other; heterozygote shows the dominant phenotype ONLY. Example: black (B) completely dominant over white (b) in cattle coat colour\n\u2022 Incomplete dominance: NEITHER allele is completely dominant; heterozygote shows a BLENDED/INTERMEDIATE phenotype. Example: red \u00d7 white flower \u2192 pink offspring\n\u2022 Co-dominance: BOTH alleles are EQUALLY expressed, appearing TOGETHER (not blended) in the phenotype. Example: red bull \u00d7 white cow \u2192 roan offspring (red and white hairs both visible)"
+        },
+        {
+          "subtopic": "Punnett Squares",
+          "q": "A homozygous RED cow (RR) is crossed with a homozygous WHITE bull (WW), producing ROAN offspring. **(a)** Name this pattern of inheritance.",
+          "marks": 1,
+          "memo": "\u2022 (a) Co-dominance\n\u2022 (b) Genotype of F1: RW (one allele for red, one for white --- both expressed)  ----------------------- ----------------------- -----------------------\n\u2022 (c) Punnett square correctly completed (2 marks) --- Phenotypic ratio: 1 RED : 2 ROAN : 1 WHITE (4 marks)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Define HERITABILITY and explain what a heritability value ABOVE 50% means for selection.",
+          "marks": 4,
+          "memo": "\u2022 Heritability: the PROPORTION (percentage) of the variation in a characteristic that is due to GENETIC factors and can be passed on to offspring\n\u2022 Above 50%: HIGH heritability --- the characteristic is strongly influenced by genetics, so SELECTION will be EFFECTIVE and rapid genetic progress can be made"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "A beef farmer has the following information about a bull: -------------------------------------- -------------------------------- **DETAIL** **VALUE** Weaning weight of selected bull 320 kg Average weaning weight of all bulls in 280 kg the herd Heritability of weaning weight 45% -------------------------------------- -------------------------------- **(a)** Use the EBV formula to calculate the Estimated Breeding Value.",
+          "marks": 4,
+          "memo": "\u2022 EBV = (Individual weight \u2212 Average weight) \u00d7 Heritability %\n\u2022 EBV = (320 \u2212 280) \u00d7 0,45 = 40 \u00d7 0,45 = 18 kg\n\u2022 Expected weaning weight of offspring = Herd average + EBV = 280 + 18 = 298 kg\n\u2022 Interpretation: since the EBV is POSITIVE (+18 kg), the offspring's weaning weight is expected to be ABOVE the herd average --- this bull should be selected for breeding"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Describe the following methods of selection and give ONE advantage of each: **(a)** Pedigree selection",
+          "marks": 3,
+          "memo": "\u2022 Pedigree selection: animals are selected based on the performance/records of their ANCESTORS (parents and grandparents). Advantage: can be done EARLY in the animal's life before its own performance is known\n\u2022 Progeny testing: a sire is mated to several females and its breeding value is determined based on the performance of its OFFSPRING. Advantage: gives the MOST ACCURATE/reliable estimate of breeding value"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Distinguish between INBREEDING and CROSSBREEDING. Give ONE advantage and ONE disadvantage of each.",
+          "marks": 8,
+          "memo": "\u2022 Inbreeding: mating of CLOSELY RELATED animals (e.g. sire \u00d7 daughter). Advantage: FIXES desirable characteristics in the herd. Disadvantage: causes INBREEDING DEPRESSION --- reduced fertility, vigour and increased genetic defects\n\u2022 Crossbreeding: mating animals of DIFFERENT breeds. Advantage: produces HYBRID VIGOUR (heterosis) --- improved growth, fertility and disease resistance. Disadvantage: offspring CANNOT be used for further pure breeding (loses uniformity)"
+        },
+        {
+          "subtopic": "Practice",
+          "q": "Define HYBRID VIGOUR (heterosis) and explain its benefit in commercial beef production.",
+          "marks": 3,
+          "memo": "\u2022 Hybrid vigour (heterosis): the phenomenon where CROSSBRED offspring perform BETTER than either of their purebred parents in traits such as growth rate, fertility and disease resistance\n\u2022 Benefit: commercial beef producers use crossbreeding to produce calves with FASTER growth rates and HIGHER weaning weights, increasing profitability"
+        },
+        {
+          "subtopic": "Selection methods",
+          "q": "Distinguish between mass selection and progeny testing as methods of selecting breeding animals.",
+          "marks": 4,
+          "memo": "\u2022 Mass selection: animals are selected based on their OWN individual performance/phenotype \u2713\u2713\n\u2022 Progeny testing: animals (especially males) are selected based on the average performance of their OFFSPRING, giving a more accurate picture of their true genetic/breeding value \u2713\u2713"
+        },
+        {
+          "subtopic": "Mendelian genetics in livestock",
+          "q": "In Hereford cattle, polled (hornless, P) is dominant over horned (p). A heterozygous polled bull (Pp) is mated with a heterozygous polled cow (Pp). Using a Punnett square, determine the expected genotype and phenotype ratio of the offspring.",
+          "marks": 6,
+          "memo": "\u2022 Cross: Pp \u00d7 Pp \u2713\n\u2022 Gametes: P, p from each parent \u2713\n\u2022 Punnett square: PP, Pp, Pp, pp \u2713\u2713\n\u2022 Genotype ratio: 1 PP : 2 Pp : 1 pp \u2713\n\u2022 Phenotype ratio: 3 polled : 1 horned \u2713"
+        },
+        {
+          "subtopic": "Genetic defects",
+          "q": "Explain why two outwardly normal, healthy parent animals can sometimes produce offspring with a genetic defect, and explain how a breeder can reduce this risk.",
+          "marks": 4,
+          "memo": "\u2022 Both parents may be heterozygous CARRIERS of a recessive allele causing the defect, without showing the defect themselves \u2713\u2713\n\u2022 When two carriers are mated, there is a chance (e.g. 25% for a simple recessive trait) that an offspring will inherit two copies of the recessive allele and be affected \u2713\n\u2022 Risk can be reduced through genetic testing/screening of breeding animals and careful pedigree record-keeping to avoid mating two known/suspected carriers \u2713"
+        },
+        {
+          "subtopic": "Genetic improvement",
+          "q": "Discuss how consistent selective breeding over several generations can improve the overall production performance of a dairy herd.",
+          "marks": 4,
+          "memo": "\u2022 Only animals with the most desirable traits (e.g. high milk yield, good fertility, disease resistance) are selected as parents of the next generation \u2713\u2713\n\u2022 Over successive generations, the frequency of alleles for desirable traits increases in the herd \u2713\n\u2022 This leads to a gradual, cumulative improvement in the average genetic merit/production performance of the herd over time \u2713"
+        }
+      ]
+    }
+  }
+}

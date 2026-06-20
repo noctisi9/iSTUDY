@@ -1,0 +1,23 @@
+name: istudy
+description: "A CAPS Grade 12 study quiz app for Life Sciences and Agricultural Sciences."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/life.json
+    - assets/data/agri.json
