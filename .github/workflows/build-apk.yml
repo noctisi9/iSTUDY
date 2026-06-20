@@ -19,6 +19,9 @@ jobs:
       - name: Scaffold Android platform files
         run: flutter create --platforms=android --org com.noctis.itrade .
 
+      - name: Remove default test stub (references a class that doesn't exist in this project)
+        run: rm -rf test
+
       - name: Show generated manifest (debug aid)
         run: cat android/app/src/main/AndroidManifest.xml
 
